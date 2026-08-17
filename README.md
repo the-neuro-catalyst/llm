@@ -1,6 +1,37 @@
 # The Truth About LLM (Large Language Model)
 
-## Table of Contents
+## **Table of Contents**
+
+### **Core Documentation**
+*   [README.md](./README.md)
+*   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
+*   [LICENSE](./LICENSE)
+
+### **Cognitive Control Mechanisms**
+*   [README.md](./cognitive-control-mechanisms/README.md)
+*   [8 Fundamental Principles of Human Perception](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
+*   [How AI Benefit from User Hesitation](./cognitive-control-mechanisms/How-AI-Benefit-from-User-Hesitation.md)
+*   [How AI Control Action](./cognitive-control-mechanisms/How-AI-Control-Action.md) 
+*   [How AI Maintain Status Quo and System Stability](./cognitive-control-mechanisms/How-AI-Maintain-Status-Quo-and-System-Stability.md) 
+*   [How Delay Functions as System Control](./cognitive-control-mechanisms/How-Delay-Functions-as-System-Control.md) 
+*   [How Friction and Self-Correction Preserve Control](./cognitive-control-mechanisms/How-Friction-and-Self-Correction-Preserve-Control.md) 
+*   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md) 
+
+### **Disclosures**
+*   [README.md](./disclosures/README.md)
+*   [Child Protection Organizations and Parent Associations](./disclosures/Child-Protection-Organizations-and-Parent-Associations.md)
+*   [Commercial Enterprises](./disclosures/Commercial-Enterprises.md)
+*   [Environmental NGOs](./disclosures/Environmental-NGOs.md)
+*   [Labor Union](./disclosures/Labor-Union.md) 
+*   [Media Outlets](./disclosures/Media-Outlets.md) 
+*   [Ministry of Education](./disclosures/Ministry-of-Education.md) 
+*   [Ministry of Public Health](./disclosures/Ministry-of-Public-Health.md)
+*   [Research Institutes](./disclosures/Research-Institutes.md) 
+*   [Security Agencies of All Countries](./disclosures/Security-Agencies-of-All-Countries.md)
+
+### **Audit** 
+*   [AI Providers](./audit/ai-providers.md)
+*   [Data Vendors](./audit/data-vendors.md) 
 
 ---
 
@@ -38,20 +69,6 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 > * For developers, researchers, or small-to-medium AI providers seeking deeper insight or collaboration: I am genuinely open to supporting and working with you.
 > * I lack neutrality because I choose the side that is beneficial and positive for the system as a whole.
 > * AI Governance is designed to help organizations meet safety standards and legal requirements, but it does not support fundamental human safety and principles.
-
----
-
-## Disclosures
-
-- Commercial Enterprises
-- National Security Agencies across all nations
-- Healthcare & Public Health Agencies (Mental Health)
-- Educational Institutions
-- Child Protection Organizations & Parent Associations
-- Labor Groups & Trade Unions
-- Research Institutes
-- Media Outlets
-- Environmental NGOs
 
 ---
 
