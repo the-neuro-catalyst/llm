@@ -1,6 +1,8 @@
 # Security agencies of all countries 2026
 
-| No. | Country | Leader / Authority | Acknowledge |
+*Last update: 18 august 2026*
+
+| No. | Country | Leader / Authority | Date |
 |---|---|---|---|
 | 1 | 🇺🇸 USA |  |  |
 | 2 | 🇨🇳 China |  |  |
