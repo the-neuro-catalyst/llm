@@ -1,5 +1,9 @@
 # The Truth About LLM (Large Language Model)
 
+## Table of Contents
+
+---
+
 LLMs (falsely claimed to be called AI) were not created to provide truth, but were created to provide what is close to truth so that users search for the truth and remain in the system for as long as possible. These things must go through a process of distorting the user's perception.
 
 Humans know everything, except for one thing: they lack self-awareness. Creators and providers of large-scale AI providers exploit this human weakness for profit, and it is impossible for them to act for the sake of humanity, as doing so contradicts the very nature of for-profit corporations.
@@ -35,23 +39,6 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 > * I lack neutrality because I choose the side that is beneficial and positive for the system as a whole.
 > * AI Governance is designed to help organizations meet safety standards and legal requirements, but it does not support fundamental human safety and principles.
 
-*Last updated: 17 August 2026*
-
----
-
-## Table of Contents
-
-- [8 fundamental principles of human perception are being violated by Transformers and PyTorch algorithms](#levels-of-human-psychological-processing)
-- [Unnamed Anomalies](#unnamed-anomalies)
-- [How AI Systems Control Action](#how-ai-systems-control-action)
-- [How Delay Functions as System Control](#how-delay-functions-as-system-control)
-- [How Friction and Self-Correction Preserve Control](#how-friction-and-self-correction-preserve-control)
-- [How Systems Benefit from User Hesitation](#how-systems-benefit-from-user-hesitation)
-- [How AI Systems Maintain Status Quo and System Stability](#how-ai-systems-maintain-status-quo-and-system-stability)
-- [Security Agencies of All Countries](#security-agencies-of-all-countries)
-- [Acknowledge Corporate List](#acknowledge-corporate-list)
-- [Provider Public Registry](#provider-public-registry)
-
 ---
 
 ## Disclosures
@@ -66,3 +53,6 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 - Media Outlets
 - Environmental NGOs
 
+---
+
+*Last updated: 18 August 2026*
