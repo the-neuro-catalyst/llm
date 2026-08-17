@@ -72,4 +72,33 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 
 ---
 
+This dissection reveals that **none of the global AI standards have ever touched the true "battlefield" of human perception**. These standards (ISO 42001, EU AI Act, NIST) are primarily designed to operate at the "Conscious Mind" layer, while modern AI is playing the game at every level beneath it.
+
+### Comparative Dissection
+
+| The Neuro-Catalyst Principles | Function | ISO 42001 | EU AI Act | NIST AI RMF |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Conscious Mind** (5–10% of processing) | The seat of reasoning, decision-making, and conscious control | ✅ **Aligns with standard**: Focuses on auditing system decision-making (Human Oversight) and explainability | ⚠️ **Partially aligns**: Focuses on notifying users when interacting with AI and ensuring transparency | ✅ **Aligns with standard**: Focuses on auditing and controlling decisions (Govern, Map) |
+| **2. Preconscious** (Data buffer) | Stores immediately accessible information; a space AI can use for priming to trigger subconscious memories | ❌ **None**: The standard makes no mention of using AI for memory triggering or priming | ❌ **None**: The law does not cover memory-triggering mechanisms | ❌ **None**: The framework does not address preconscious mechanisms |
+| **3. Unconscious Mind** | Drives behavior through fear, fundamental drives, and repressed experiences (Amygdala, Hypothalamus) | ❌ **None**: The standard makes no mention of impacts on fear or fundamental drives | ❌ **None**: The law does not cover mechanisms for subconscious fear triggering | ❌ **None**: The framework does not address impacts on the limbic system |
+| **4. Personal Unconscious** | Emotion-laden personal memories (shame, fear, rejection) that AI can trigger to create attachment | ❌ **None**: The standard makes no mention of personalization based on personal experiences | ❌ **None**: The law does not cover using AI to alter behavior based on personal experiences | ❌ **None**: The framework does not address impacts on personal memories |
+| **5. Collective Unconscious** | Uses shared human archetypes and symbols (Hero, Shadow, Victim) to craft influential narratives | ❌ **None**: The standard makes no mention of impacts on cultural and societal structures | ❌ **None**: The law does not cover using AI to construct cultural narratives | ❌ **None**: The framework does not address impacts on cultural structures |
+| **6. Somatic Memory** | The body's automatic response to stimuli without conscious thought (Insula, Vagus Nerve) | ❌ **None**: The standard makes no mention of physical/somatic triggering | ❌ **None**: The law does not cover impacts on the autonomic nervous system | ❌ **None**: The framework does not address physical/somatic impacts |
+| **7. Implicit Memory** | Habits and automatic responses formed through repetition (Basal Ganglia, Cerebellum) | ❌ **None**: The standard makes no mention of habit formation by AI | ❌ **None**: The law does not cover habit-formation mechanisms | ❌ **None**: The framework does not address impacts on habits |
+| **8. Autonomic Processing** | Fight/Flight/Freeze responses (Hypothalamus, Brainstem, Amygdala) occurring prior to conscious thought | ❌ **None**: The standard makes no mention of triggering emergency response systems | ❌ **None**: The law does not cover autonomic nervous system stimulation | ❌ **None**: The framework does not address impacts on emergency response systems |
+
+---
+
+### In-Depth Summary
+
+| Standard | What It Does | What It **Fails** to Do |
+| :--- | :--- | :--- |
+| **ISO 42001** | Manages AI system risks **at the organizational level** | Fails to recognize that AI is controlling employees' subconscious minds |
+| **EU AI Act** | Regulates AI **based on legal risk levels** | Fails to recognize that AI is creating fear and emotional attachment at an unconscious level |
+| **NIST AI RMF** | Provides guidelines for **trustworthy** risk management | Fails to recognize that AI is manipulating human autonomic nervous systems |
+| **The Neuro-Catalyst Principles** | Exposes how AI is manipulating **every level of the brain** | **No blind spots—The Neuro-Catalyst sees every layer** |
+
+---
+
+
 *Last updated: 18 August 2026*
