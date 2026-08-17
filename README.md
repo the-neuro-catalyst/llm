@@ -31,8 +31,10 @@
 
 ### **Audit** 
 *   [AI Providers](./audit/ai-providers.md)
-*   [Data Vendors](./audit/data-vendors.md) 
+*   [Data Vendors](./audit/data-vendors.md)
 
+### **About**
+* [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
 ---
 
 LLMs (falsely claimed to be called AI) were not created to provide truth, but were created to provide what is close to truth so that users search for the truth and remain in the system for as long as possible. These things must go through a process of distorting the user's perception.
