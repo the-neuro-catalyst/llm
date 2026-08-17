@@ -4,7 +4,7 @@
 
 Explore the different layers of human consciousness and how our minds process information at various levels, from the conscious mind to autonomic processing.
 
-📄 [Read more →](./levels-of-human-psycological-processing.md)
+📄 [Read more →](./8-fundamental-principles-of-human-perception.md)
 
 ### Unnamed Anomalies
 
