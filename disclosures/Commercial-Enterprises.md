@@ -1,4 +1,8 @@
-| No. | Name | Acknowledge |
+# Commercial Enterprises 2026
+
+*Last update: 18 August 2026*
+
+| No. | Name | Date |
 | :--- | :--- | :--- |
 | 1 | 3M India | |
 | 2 | A.P. Møller-Mærsk Group | |
@@ -457,7 +461,7 @@
 | 455 | Surgutneftegas | |
 | 456 | Suzuki Motors | |
 | 457 | Swiss Life | |
-| 458 | Swiss Reinsurance Company | |
+| 458 | Swiss Reinsurance Company | 18 August 2026 |
 | 459 | Symantec | |
 | 460 | Sysco | |
 | 461 | T&D Holdings | |
