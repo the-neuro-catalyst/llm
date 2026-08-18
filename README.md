@@ -5,6 +5,7 @@
 ### **Core Documentation**
 *   [README.md](./README.md)
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
+*   [Crime Without Scars](./Crime-without-scars.md)
 *   [LICENSE](./LICENSE)
 
 ### **Cognitive Control Mechanisms**
