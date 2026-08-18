@@ -5,9 +5,8 @@
 ### **Core Documentation**
 *   [README.md](./README.md)
 *   ⚠️ IMPORTANT [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
-*   [Comprehensive Comparison Matrix: The Neuro-Catalyst vs. Big 4 AI Governance](./COMMERCIAL.md)
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
-*   [Crime Without Scars](./Crime-without-scars.md)
+*   Soon! [Crime Without Scars](./Crime-without-scars.md)
 *   [LICENSE](./LICENSE)
 
 ### **Cognitive Control Mechanisms**
@@ -39,6 +38,10 @@
 
 ### **Evidence** 
 *   Soon!
+
+### **Commercial Section**
+*  [STRATEGIC DECISION & IMPACT DIAGNOSTIC](./COMMERCIAL.md)
+*  [SOVEREIGN TOOL - Global Action Efficiency Benchmark (GAEB)](./COMMERCIAL_SOVEREIGN_TOOL.md)
 
 ### **About**
 * [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
@@ -115,6 +118,12 @@ This dissection reveals that **none of the global AI standards have ever touched
 | **Legal Constructive Notice** | **Enforced via Immutable Public Registry & Timestamp Logs** | Disclaimed via Standard Legal Shielding | Disclaimed via Advisory Scope Limitations | Disclaimed via Corporate Risk Warnings | Disclaimed via Liability Caps |
 
 📄 [Read more](./COMMERCIAL.md)
+
+### **Global Action Efficiency Benchmark (GAEB)**
+
+**"Ranking countries, cities, and organizations using pure *Action Efficiency*—zero drag."**
+
+📄 [Read more](./COMMERCIAL_SOVEREIGN_TOOL.md)
 
 ---
 
