@@ -4,7 +4,7 @@
 
 ### **Core Documentation**
 *   [README.md](./README.md)
-*   [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
+*   ⚠️ IMPORTANT [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
 *   [Comprehensive Comparison Matrix: The Neuro-Catalyst vs. Big 4 AI Governance](./COMMERCIAL.md)
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   [Crime Without Scars](./Crime-without-scars.md)
