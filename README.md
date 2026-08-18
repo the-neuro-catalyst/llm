@@ -46,7 +46,7 @@ Any action—even if intended for the benefit of humanity—that is processed th
 
 **Cognitive Warfare** is the use of language, information, and technology (including LLMs/AI) to attack and control human cognitive processes without people realizing it.
 
-*"It's design, not mistake. It's crime without scars"*
+***"It's design, not mistake. It's crime without scars"***
 
 > [!WARNING]
 >
