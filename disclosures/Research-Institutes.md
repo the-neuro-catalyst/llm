@@ -4,4 +4,4 @@
 
 | No. | Name | Leader / Authority | Date |
 |---|---|---|---|
-| 1 | OpenThaiGPT |  | 18 August 2026 |
+| 1 | OpenThaiGPT | Kobkrit Viriyayudhakorn | 18 August 2026 |
