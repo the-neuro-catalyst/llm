@@ -103,5 +103,12 @@ This dissection reveals that **none of the global AI standards have ever touched
 
 ---
 
+## **Contact:**
+
+* [jakkraphop_p@theneurocatalyst.com](mailto:jakkraphop_p@theneurocatalyst.com)
+* [jakkph@gmail.com](mailto:jakkph@gmail.com)
+
+---
+
 
 *Last updated: 18 August 2026*
