@@ -1,4 +1,4 @@
-# 8 fundamental principles of human perception are being violated by Transformers and PyTorch algorithms.
+# 8 fundamental principles of human perception are being violated by [Transformers](https://github.com/huggingface/transformers) and [PyTorch](https://github.com/pytorch/pytorch) algorithms.
 
 > [!IMPORTANT]
 >
