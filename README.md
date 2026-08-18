@@ -30,6 +30,9 @@
 *   [Research Institutes](./disclosures/Research-Institutes.md) 
 *   [Security Agencies of All Countries](./disclosures/Security-Agencies-of-All-Countries.md)
 
+### **Papers**
+*   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
+
 ### **Audit** 
 *   [AI Providers](./audit/ai-providers.md)
 *   [Data Vendors](./audit/data-vendors.md)
