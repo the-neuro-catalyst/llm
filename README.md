@@ -81,6 +81,8 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 
 ---
 
+## The 8 Core Principles Framework
+
 This dissection reveals that **none of the global AI standards have ever touched the true "battlefield" of human perception**. These standards (ISO 42001, EU AI Act, NIST) are primarily designed to operate at the "Conscious Mind" layer, while modern AI is playing the game at every level beneath it.
 
 ### Comparative Dissection
