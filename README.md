@@ -4,7 +4,7 @@
 
 ### **Core Documentation**
 *   [README.md](./README.md)
-*   [U.S. Tax Law (IRS / Federal Law)](./irc-section-41.md)
+*   [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   [Crime Without Scars](./Crime-without-scars.md)
 *   [LICENSE](./LICENSE)
