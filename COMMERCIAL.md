@@ -20,7 +20,7 @@ Deloitte, PwC, EY, and KPMG do not create or define the standards they audit aga
 While all Big 4 frameworks stop at the level of data privacy, transparency, and compliance checklists, The Neuro-Catalyst detects active cognitive distortion, subconscious model bias, and system language manipulation that alters decision-making at the executive and operational level.
 
 **3. Operational speed and independence are structural advantages.**  
-The Big 4 require months of workshops, onboarding, and procurement cycles—often creating conflicts of interest through their partnerships with Microsoft, Google, and AWS. The Neuro-Catalyst delivers pure diagnostic analysis within 3–5 business days, without vendor dependencies or retainer models.
+The Big 4 require months of workshops, onboarding, and procurement cycles—often creating conflicts of interest through their partnerships with Microsoft, Google, and AWS. The Neuro-Catalyst delivers pure diagnostic analysis within 15-45 business days, without vendor dependencies or retainer models.
 
 **4. Legal standing is created through public transparency.**  
 Unlike Big 4 firms that disclaim liability and shield their advisory scope, The Neuro-Catalyst maintains an immutable public registry and timestamped disclosures to establish constructive notice—ensuring that organizations cannot later claim ignorance of structural AI risks.
