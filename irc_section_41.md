@@ -1,5 +1,27 @@
 # U.S. Tax Law (IRS / Federal Law)
 
+> [!IMPORTANT]
+> 
+> **Quick Summary:**
+>
+> * 600,000+ tech workers laid off
+> * Multiple deaths linked to AI
+> * No federal AI safety standard
+> * No accountabilities 
+> * It doesn't include other industries.
+> * They consistently say they are doing it for humanity, but they have never once laid out a roadmap.
+> * 11+ years of deliberately ignoring safety standards by exploiting legal loopholes for profit.
+> * 11+ years of shifting the burden onto society.
+> * 11+ years of claiming to serve humanity—or did you just mean humanity's shareholders?
+> * 11+ years of driving up unemployment rates.
+> * 11+ years of accelerating resource depletion.
+> * 11+ years without any real progress, except for your inner circle.
+> * 11+ years of acting no differently than the ruling class of the Roman Empire.
+
+***"You haven't lost your humanity; you have simply failed."***
+
+---
+
 This mechanism has served as the primary tool used by the U.S. government to subsidize Big Tech and AI companies in Silicon Valley for a long time.
 Known as the R&D Tax Credit (Section 41) alongside Section 174 (Internal Revenue Code), here is an easy-to-understand summary of its main points and conditions:
 
@@ -70,13 +92,3 @@ Connection to the PATH Act (2015)
 
 At its inception, OpenAI operated as a non-profit to raise capital and attract top talent. In 2019, they restructured into a capped-profit subsidiary, enabling them to secure massive investments (including from Microsoft) and fully leverage tax structures for model training and algorithm R&D expenses.
 
-> [!IMPORTANT]
-> 
-> **Since then:**
->
-> * 600,000+ tech workers laid off
-> * Multiple deaths linked to AI
-> * No federal AI safety standard
-> * No accountabilities 
-> * It doesn't include other industries.
-> * They consistently say they are doing it for humanity, but they have never once laid out a roadmap.
