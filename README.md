@@ -32,6 +32,7 @@
 
 ### **Papers**
 *   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
+*   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
 
 ### **Audit** 
 *   [AI Providers](./audit/ai-providers.md)
