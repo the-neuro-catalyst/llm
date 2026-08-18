@@ -29,6 +29,7 @@
 *   [Ministry of Public Health](./disclosures/Ministry-of-Public-Health.md)
 *   [Research Institutes](./disclosures/Research-Institutes.md) 
 *   [Security Agencies of All Countries](./disclosures/Security-Agencies-of-All-Countries.md)
+*   [Index of Hostile Contact Architecture & Public Evasion Practices](./disclosures/HOSTILE_CONTACT_ARCHITECTURE_INDEX.md)
 
 ### **Papers**
 *   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
