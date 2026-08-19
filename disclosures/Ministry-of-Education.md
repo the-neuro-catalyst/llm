@@ -10,7 +10,7 @@
 | 4 | 🇪🇺 EU |  |  |
 | 5 | 🇦🇺 Australia |  |  |
 | 6 | 🇸🇬 Singapore |  |  |
-| 7 | 🇹🇭 Thailand |  | 19 August 2026 |
+| 7 | 🇹🇭 Thailand | รัฐมนตรีว่าการกระทรวงศึกษาธิการ: นายประเสริฐ จันทรรวงทอง | 19 August 2026 |
 | 8 | 🇯🇵 Japan |  |  |
 | 9 | 🇰🇷 South Korea |  |  |
 | 10 | 🇬🇧 United Kingdom |  |  |
