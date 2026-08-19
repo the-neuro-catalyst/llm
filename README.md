@@ -4,6 +4,7 @@
 
 ### **Core Documentation**
 *   [README.md](./README.md)
+*   [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
 *   ⚠️ IMPORTANT [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   Soon! [Crime Without Scars](./Crime-without-scars.md)
