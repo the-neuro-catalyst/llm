@@ -44,6 +44,7 @@
 *  [SOVEREIGN TOOL - Global Action Efficiency Benchmark (GAEB)](./COMMERCIAL_SOVEREIGN_TOOL.md)
 
 ### **About**
+* [Author](./AUTHOR.md)
 * [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
 
 ---
