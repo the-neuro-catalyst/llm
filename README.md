@@ -1,5 +1,12 @@
 # The Truth About LLM (Large Language Model)
 
+> [!IMPORTANT]
+>
+> **Quick Summary:**
+> *"The entire damage does not originate from the structure, but from the incentives."*
+
+---
+
 ## **Table of Contents**
 
 ### **Core Documentation**
