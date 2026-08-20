@@ -83,7 +83,7 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 
 > [!NOTE]
 >
-> Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me.
+> Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me. Read more [Commercial Section](./COMMERCIAL.md)
 
 > [!IMPORTANT]
 >
