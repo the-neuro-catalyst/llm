@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 >
 > **Quick Summary:**
-> *"The entire damage does not originate from the structure, but from the incentives."*
+> *"The entire damage does not originate from the system's structure itself, but from the demand for outcomes driven by the present system's underlying incentives."*
 
 ---
 
