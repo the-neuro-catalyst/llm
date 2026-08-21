@@ -13,6 +13,7 @@
 ### **Core Documentation**
 *   [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
 *   [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
+*   [LLM ARCHITECTURE CONTRIBUTORS](./LLM_ARCHITECTURE_CONTRIBUTORS.md)
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   Soon! [Crime Without Scars](./Crime-without-scars.md)
 
