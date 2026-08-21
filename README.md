@@ -69,7 +69,7 @@ Any action—even if intended for the benefit of humanity—that is processed th
 
 ***"It's design, not a mistake. It's crime without scars. It's an invisible cage."***
 
-On the other hand, It is no different from Smart Glasses sold under the narrative of **"convenience, everyday access to AI, or coolness"**, where consumers pay hundreds or thousands of dollars for hardware only to turn themselves into **"mobile data nodes"**—collecting image, audio, and real-world behavioral data for companies to train AI models for free. They shift from being **"beneficiaries of technology"** to **"unpaid data collectors"**.
+On the other hand, It is no different from **Smart Glasses** sold under the narrative of **"convenience, everyday access to AI, or coolness"**, where consumers pay hundreds or thousands of dollars for hardware only to turn themselves into **"mobile data nodes"**—collecting image, audio, and real-world behavioral data for companies to train AI models for free. They shift from being **"beneficiaries of technology"** to **"unpaid data collectors"**.
 
 > [!WARNING]
 >
