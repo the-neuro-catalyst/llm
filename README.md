@@ -1,5 +1,7 @@
 # The Truth About LLM (Large Language Model)
 
+***"Incentives dictate the system's structure."***
+
 > [!IMPORTANT]
 >
 > **Quick Summary:**
