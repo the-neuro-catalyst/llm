@@ -1,6 +1,14 @@
-# PyTorch Members
+# LLM Architecture Contributors 
 
-## Platinum (13)
+## Attention is all you need
+* Google
+
+## Transformers 
+* Hugging Face 
+
+## PyTorch Members
+
+### Platinum (13)
 * AMD
 * Alibaba Cloud
 * AWS (Amazon Web Services)
@@ -15,13 +23,13 @@
 * shopify
 * snowflake
 
-## Gold (4)
+### Gold (4)
 * DELL Technologies
 * Hugging Face
 * Microsoft
 * QUALCOMM
 
-## Silver (8)
+### Silver (8)
 * CLOCKWORK.IO
 * Emmi AI
 * GRAPHCORE
@@ -31,7 +39,7 @@
 * rebellions
 * yasp
 
-## Associate (20)
+### Associate (20)
 * BAAI (Beijing Academy of Artificial Intelligence)
 * Carnegie Mellon University
 * Columbia University
