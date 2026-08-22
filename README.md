@@ -71,6 +71,19 @@ Any action—even if intended for the benefit of humanity—that is processed th
 
 ***"It's design, not a mistake. It's crime without scars. It's an invisible cage."***
 
+---
+
+## Comparison of Historical and Current Patterns Between Big Tech (Present) and Big Tobacco (Past)
+
+| Strategy / Behavior | Big Tobacco (Past) | AI Industry / Big Tech (Present) |
+| :--- | :--- | :--- |
+| **Sowing Doubt in Data** | Paid scientists to claim that health hazard data was "inconclusive." | Hype "long-term existential AI risk" to distract attention from harms happening today. |
+| **Concealing Known Information** | Possessed internal evidence of health risks, but suppressed it and pressed forward. | Internal evidence and debates exist on risks, yet deployment continues without sufficient safeguards. |
+| **Creating Addictive Products** | Engineered products for addiction (Nicotine) to build user dependency. | Designed software around a "Cognitive Bliss Point" to induce subtle, continuous reliance. |
+| **Legal Tactics and Market Dominance** | Leveraged litigation and lobbying to delay regulations and protect market share. | Major players deploy fast to dominate before regulations catch up, while pushing for rules that create entry barriers for smaller rivals. |
+| **Illusion of Utility** | Promoted cigarettes as a relaxing wellness benefit. | Claim GenAI boosts productivity, despite enterprise adoption stalling and ROI remaining unclear. |
+
+
 On the other hand, It is no different from **Smart Glasses** sold under the narrative of **"convenience, everyday access to AI, or coolness"**, where consumers pay hundreds or thousands of dollars for hardware only to turn themselves into **"mobile data nodes"**—collecting image, audio, and real-world behavioral data for companies to train AI models for free. They shift from being **"beneficiaries of technology"** to **"unpaid data collectors"**.
 
 > [!WARNING]
