@@ -7,6 +7,7 @@
 > **Quick Summary:**
 > * The entire damage does not originate from the system's structure itself, but from the demand for outcomes driven by the present system's underlying incentives.
 > * All of this content is not intended to prove that the author is correct, but rather to identify or point out what the system actually does.
+> * It doesn't matter whether the AI you use runs locally/AI providers, because it is a design embedded directly into the architecture.
 
 ---
 
