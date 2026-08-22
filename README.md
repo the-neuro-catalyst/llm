@@ -19,6 +19,11 @@
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   Soon! [Crime Without Scars](./Crime-without-scars.md)
 
+### **Papers**
+*   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
+*   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
+*   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
+
 ### **Cognitive Control Mechanisms**
 *   [README.md](./cognitive-control-mechanisms/README.md)
 *   [8 Fundamental Principles of Human Perception](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
@@ -41,10 +46,6 @@
 *   [Research Institutes](./disclosures/Research-Institutes.md) 
 *   [Security Agencies of All Countries](./disclosures/Security-Agencies-of-All-Countries.md)
 *   [Index of Hostile Contact Architecture & Public Evasion Practices](./disclosures/HOSTILE_CONTACT_ARCHITECTURE_INDEX.md)
-
-### **Papers**
-*   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
-*   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
 
 ### **Evidence** 
 *   Soon!
