@@ -148,4 +148,4 @@ This dissection reveals that **none of the global AI standards have ever touched
 
 ---
 
-*Last updated: 19 August 2026*
+*Last updated: 22 August 2026*
