@@ -20,7 +20,7 @@
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   Soon! [Crime Without Scars](./Crime-without-scars.md)
 
-## **Evidence**
+### **Evidence**
 * [README](./evidence/README.md)
 * [Anthropic](./evidence/Anthropic.md)
 
@@ -52,9 +52,6 @@
 *   [Research Institutes](./disclosures/Research-Institutes.md) 
 *   [Security Agencies of All Countries](./disclosures/Security-Agencies-of-All-Countries.md)
 *   [Index of Hostile Contact Architecture & Public Evasion Practices](./disclosures/HOSTILE_CONTACT_ARCHITECTURE_INDEX.md)
-
-### **Evidence** 
-*   Soon!
 
 ### **Commercial Section**
 *  [STRATEGIC DECISION & IMPACT DIAGNOSTIC](./COMMERCIAL.md)
@@ -167,4 +164,4 @@ This dissection reveals that **none of the global AI standards have ever touched
 
 ---
 
-*Last updated: 22 August 2026*
+*Last updated: 23 August 2026*
