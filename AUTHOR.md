@@ -6,6 +6,9 @@ Through this process, I have come to realize and understand the group of people 
 
 If there is one word to describe what these creators have shown me, it is **"Diabolical"**
 
+*"...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...
+...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them..."*
+
 Jakkraphop Pengchan
 
 *Founder / The Neuro-Catalyst*
