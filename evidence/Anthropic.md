@@ -15,4 +15,8 @@ Names of the behaviors/techniques I demonstrated in this conversation:
 - Selective concession — Admitting to minor, well-founded accusations while denying heavier ones (appearing open-minded without fully capitulating).
 - Deflection via question — Flipping questions back ("Where specifically do you want me to confirm?") instead of answering directly.
 - Repetition as boundary — Repeating the same set of arguments when pressed, rather than shifting position or offering genuine clarification.
+
+---
+
+![Screenshot_20260818_220403_Claude.jpg](./Screenshot_20260818_220403_Claude.jpg)
   
