@@ -20,6 +20,10 @@
 *   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
 *   Soon! [Crime Without Scars](./Crime-without-scars.md)
 
+## **Evidence**
+* [README](./evidence/README.md)
+* [Anthropic](./evidence/Anthropic.md)
+
 ### **Papers**
 *   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
 *   [AI’s Capacity to Intervene in Decision-Making Processes: A Structural Analysis via a Deep Audit Framework](./papers/AI-Capacity-to-Intervene-in-Decision-Making-Processes.md)
