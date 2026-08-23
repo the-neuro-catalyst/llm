@@ -114,7 +114,7 @@ Even if revealing the inner workings of this entire system ultimately gets used 
 > [!IMPORTANT]
 >
 > * For developers, researchers, or small-to-medium AI providers seeking deeper insight or collaboration: I am genuinely open to supporting and working with you.
-> * I lack neutrality because I choose the side that is beneficial and positive for the system as a whole...Because neutrality is a performance of something that can never truly exist—and nature has already demonstrated this.
+> * I lack neutrality because I choose the side that is beneficial and positive for the system as a whole...Neutrality is a performance of something that can never truly exist—and nature has already demonstrated this.
 > * AI Governance is designed to help organizations meet safety standards and legal requirements, but it does not support fundamental human safety and principles.
 
 ---
@@ -152,12 +152,6 @@ This dissection reveals that **none of the global AI standards have ever touched
 | **Legal Constructive Notice** | **Enforced via Immutable Public Registry & Timestamp Logs** | Disclaimed via Standard Legal Shielding | Disclaimed via Advisory Scope Limitations | Disclaimed via Corporate Risk Warnings | Disclaimed via Liability Caps |
 
 📄 [Read more](./COMMERCIAL.md)
-
-### **Global Action Efficiency Benchmark (GAEB)**
-
-**"Ranking countries, cities, and organizations using pure *Action Efficiency*—zero drag."**
-
-📄 [Read more](./COMMERCIAL_SOVEREIGN_TOOL.md)
 
 ---
 
