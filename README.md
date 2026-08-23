@@ -1,6 +1,10 @@
 # The Truth About LLM (Large Language Model)
 
-***"Incentives dictate the system's structure."***
+***...Incentives dictate the system's structure...***
+
+***...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...***
+
+***...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...***
 
 > [!IMPORTANT]
 >
