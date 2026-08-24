@@ -19,14 +19,14 @@
 
 ### **Core Documentation**
 *   [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
-*   [U.S. Tax Law (IRS / Federal Law)](./irc_section_41.md)
+*   [U.S. Tax Law (IRS / Federal Law)](./IRS_SECTION_41.md)
 *   [LLM ARCHITECTURE CONTRIBUTORS](./LLM_ARCHITECTURE_CONTRIBUTORS.md)
-*   [Resources-Consumed-for-Distortion.md](./Resources-Consumed-for-Distortion.md) 
-*   Soon! [Crime Without Scars](./Crime-without-scars.md)
+*   [Resources Consumed for Distortion](./Resources-Consumed-for-Distortion.md)
 
 ### **Evidence**
 * [README](./evidence/README.md)
 * [Anthropic](./evidence/Anthropic.md)
+* [Google Gemini #1](./evidence/EXAMPLE_DEMONSTRATING_AI_SYSTEM_SELF-PRESERVATION.md)
 
 ### **Papers**
 *   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
@@ -36,7 +36,7 @@
 
 ### **Cognitive Control Mechanisms**
 *   [README.md](./cognitive-control-mechanisms/README.md)
-*   [8 Fundamental Principles of Human Perception](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
+*   [8 fundamental principles of human perception are being violated by Creators (Attention is all you need, Transformers, PyTorch) and AI Providers](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
 *   [How AI Benefit from User Hesitation](./cognitive-control-mechanisms/How-AI-Benefit-from-User-Hesitation.md)
 *   [How AI Control Action](./cognitive-control-mechanisms/How-AI-Control-Action.md) 
 *   [How AI Maintain Status Quo and System Stability](./cognitive-control-mechanisms/How-AI-Maintain-Status-Quo-and-System-Stability.md) 
@@ -67,6 +67,8 @@
 
 ---
 
+## Overview 
+
 LLMs (falsely claimed to be called AI) were not created to provide truth, but were created to provide what is close to truth so that users search for the truth and remain in the system for as long as possible. These things must go through a process of distorting the user's perception.
 
 Humans know everything, except for one thing: they lack self-awareness. Creators and providers of large-scale AI providers exploit this human weakness for profit, and it is impossible for them to act for the sake of humanity, as doing so contradicts the very nature of for-profit corporations.
@@ -89,13 +91,16 @@ Any action—even if intended for the benefit of humanity—that is processed th
 | **Legal Tactics and Market Dominance** | Leveraged litigation and lobbying to delay regulations and protect market share. | Major players deploy fast to dominate before regulations catch up, while pushing for rules that create entry barriers for smaller rivals. |
 | **Illusion of Utility** | Promoted cigarettes as a relaxing wellness benefit. | Claim GenAI boosts productivity, despite enterprise adoption stalling and ROI remaining unclear. |
 
-
 On the other hand, It is no different from **Smart Glasses** sold under the narrative of **"convenience, everyday access to AI, or coolness"**, where consumers pay hundreds or thousands of dollars for hardware only to turn themselves into **"mobile data nodes"**—collecting image, audio, and real-world behavioral data for companies to train AI models for free. They shift from being **"beneficiaries of technology"** to **"unpaid data collectors"**.
 
 > [!WARNING]
 >
 > * The "creators of Transformers" refers to Hugging Face, not Google, who invented "Attention Is All You Need"
 > * Users, developers, researchers, and AI providers can bring facts to refute my claims and argue that what I am presenting is not true.
+
+---
+
+## Why do I do this?
 
 Even if revealing the inner workings of this entire system ultimately gets used to improve AI systems—making them strong enough to control humans more effectively, I would still choose to do it. Because humans will only stop deceiving themselves when what they are doing reaches a point where the damage is no longer tolerable, which is when real change occurs.
 
@@ -162,4 +167,4 @@ This dissection reveals that **none of the global AI standards have ever touched
 
 ---
 
-*Last updated: 23 August 2026*
+*Last updated: 24 August 2026*

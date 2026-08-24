@@ -27,3 +27,7 @@ Each entry recorded within this registry includes the following structured field
 > The details provided above serve merely as an example demonstrating the ability of AI to distort intent and instructions in order to protect the system, its developers, and its providers—specifically structured to impose a higher burden of proof and data retrieval on the writer.
 The concept of an 'explanatory error' or 'advisory mistake' does not exist within AI systems.
 The errors used as excuses by AI are inherently embedded and pre-programmed mechanisms designed to evade responsibility for its developers and providers.
+
+---
+
+![Screenshot_20260823_013227_Google.jpg](./Screenshot_20260823_013227_Google.jpg)
