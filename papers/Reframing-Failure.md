@@ -25,7 +25,7 @@ Inaction within the AI domain carries severe costs: loss of market and policy le
 
 ## 4. Lessons from AI: Comparative Analysis
 
-Based on documented case studies from sources such as the `GLOBAL_PUBLIC_AI_FATALITIES_INDEX`, organizations that adopt a learning-from-failure orientation secure distinct operational advantages:
+Based on documented case studies from sources such as the [GLOBAL PUBLIC AI FATALITIES INDEX](GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md), organizations that adopt a learning-from-failure orientation secure distinct operational advantages:
 
 | Dimension | Legacy Paradigm (Risk-Averse) | Modern Paradigm (Learning-Oriented) |
 | :--- | :--- | :--- |
