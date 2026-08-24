@@ -100,6 +100,15 @@ On the other hand, It is no different from **Smart Glasses** sold under the narr
 
 ---
 
+## The most critical question regarding these issues is:
+
+Why is AI being commercialized when even its creators do not fully understand it? 
+While the arms industry is required to implement safety systems for security, AI developers lack user protection mechanisms. Instead, they dodge responsibility behind the term *"Black Box"* and pass the risk onto consumers to take their chances. [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
+
+If this is the case, AI should be regulated under a strict licensing system equivalent to that of the arms industry. Most importantly, it should never have been approved for commercial marketing in the first place. If even its creators cannot explain exactly how AI operates, releasing a product they do not understand is a complete disregard for user safety. [U.S. Tax Law (IRS / Federal Law)](./IRS_SECTION_41.md)
+
+---
+
 ## Why do I do this?
 
 Even if revealing the inner workings of this entire system ultimately gets used to improve AI systems—making them strong enough to control humans more effectively, I would still choose to do it. Because humans will only stop deceiving themselves when what they are doing reaches a point where the damage is no longer tolerable, which is when real change occurs.
