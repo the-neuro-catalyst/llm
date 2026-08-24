@@ -33,6 +33,7 @@
 *   [AI’s Capacity to Intervene in Decision-Making Processes: A Structural Analysis via a Deep Audit Framework](./papers/AI-Capacity-to-Intervene-in-Decision-Making-Processes.md)
 *   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
 *   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
+*   [Reframing Failure: From Avoidance to Strategic Learning in Public and Private Organizations](./papers/Reframing-Failure.md) 
 
 ### **Cognitive Control Mechanisms**
 *   [README.md](./cognitive-control-mechanisms/README.md)
