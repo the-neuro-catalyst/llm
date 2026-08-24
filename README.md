@@ -59,11 +59,11 @@
 
 ### **Commercial Section**
 *  [STRATEGIC DECISION & IMPACT DIAGNOSTIC](./COMMERCIAL.md)
-*  [SOVEREIGN TOOL - Global Action Efficiency Benchmark (GAEB)](./COMMERCIAL_SOVEREIGN_TOOL.md)
 
 ### **About**
 * [Author](./AUTHOR.md)
 * [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
+* [Structural Blind Spots of Capitalism](https://github.com/the-neuro-catalyst/structural-blind-spots-of-capitalism)
 
 ---
 
