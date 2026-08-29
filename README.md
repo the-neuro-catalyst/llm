@@ -27,6 +27,7 @@
 * [README](./evidence/README.md)
 * [Anthropic](./evidence/Anthropic.md)
 * [Google Gemini #1](./evidence/EXAMPLE_DEMONSTRATING_AI_SYSTEM_SELF-PRESERVATION.md)
+*   [Data Vendors: Neurological Impacts of AI Systems and Digital Platforms](./evidence/Neurological_Impacts_of_AI_Systems_and_Digital_Platforms.md)
 
 ### **Audit**
 * Terms of Service 
@@ -48,6 +49,7 @@
 *   [How Delay Functions as System Control](./cognitive-control-mechanisms/How-Delay-Functions-as-System-Control.md) 
 *   [How Friction and Self-Correction Preserve Control](./cognitive-control-mechanisms/How-Friction-and-Self-Correction-Preserve-Control.md) 
 *   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md) 
+
 
 ### **Disclosures**
 *   [README.md](./disclosures/README.md)
