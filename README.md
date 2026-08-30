@@ -182,6 +182,11 @@ This dissection reveals that **none of the global AI standards have ever touched
 * [jakkraphop_p@theneurocatalyst.com](mailto:jakkraphop_p@theneurocatalyst.com)
 * [jakkph@gmail.com](mailto:jakkph@gmail.com)
 
+## **Other Channels:**
+
+* Reddit: Soon
+* Medium: Soon
+
 ---
 
-*Last updated: 24 August 2026*
+*Last updated: 31 August 2026*
