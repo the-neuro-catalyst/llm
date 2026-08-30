@@ -39,6 +39,7 @@
 *   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
 *   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
 *   [Reframing Failure: From Avoidance to Strategic Learning in Public and Private Organizations](./papers/Reframing-Failure.md) 
+*   [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md)
 
 ### **Cognitive Control Mechanisms**
 *   [README.md](./cognitive-control-mechanisms/README.md)
