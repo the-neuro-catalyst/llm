@@ -22,6 +22,8 @@
 *   [U.S. Tax Law (IRS / Federal Law)](./IRS_SECTION_41.md)
 *   [LLM ARCHITECTURE CONTRIBUTORS](./LLM_ARCHITECTURE_CONTRIBUTORS.md)
 *   [Resources Consumed for Distortion](./Resources-Consumed-for-Distortion.md)
+* [What is the State? (Unfiltered Truth)](WHAT_IS_THE_STATE.md)
+* [Self-Deception Mechanisms Sustaining Wrongful Acts](SELF_DECEPTION_MECHANISMS_SUSTAINING_WRONGFUL_ACTS.md)
 
 ### **Evidence**
 * [README](./evidence/README.md)
@@ -134,7 +136,9 @@ It is not Big Tech that actually pays these fines—it is the users who pay on t
 
 ## "So what do we do? Knowing this changes nothing—we are just ordinary people with no power."
 
-*Reference:* [What is the State? (Unfiltered Truth)](WHAT_IS_THE_STATE.md)
+*Reference:* 
+* [What is the State? (Unfiltered Truth)](WHAT_IS_THE_STATE.md)
+* [Self-Deception Mechanisms Sustaining Wrongful Acts](SELF_DECEPTION_MECHANISMS_SUSTAINING_WRONGFUL_ACTS.md)
 
  * You still hold the power. It stays with you and has never gone anywhere. It has been there since the day you were born and always will be. They merely created conditions or illusions to trick you into believing you have none.
  * Don't be so quick to succumb to fear or anxiety over their information. Refrain from making decisions on autopilot—pause and hold back your emotional reactions first. Fear and anxiety are their primary control mechanism, and this technique of delaying your reaction works well for everything.
