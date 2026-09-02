@@ -130,6 +130,7 @@ It is not Big Tech that actually pays these fines—it is the users who pay on t
  * If laws were truly written for the people, the penalty would be an immediate cease of operations, not just a slap-on-the-wrist fine.
  * Coming out to make excuses or save face is just another foolish, nonsense tactic these government agencies love to use. Credibility comes from the results of one's actions, not from explanations.
  * The government does not lack the personnel, resources, or expertise to set safety standards for AI usage. It is simply a necessary excuse they fabricate—because without it, they would lack the tools to stall.
+ * Undermining credibility is another strategy they love to use. It isn't a matter of pointing fingers without self-reflection; rather, it's because they have already assessed the situation and realized the truth carries real weight—leaving them with no choice but to discredit the opposition.
 
 ## "So what do we do? Knowing this changes nothing—we are just ordinary people with no power."
 
