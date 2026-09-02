@@ -121,13 +121,37 @@ If this is the case, AI should be regulated under a strict licensing system equi
 
 Even if revealing the inner workings of this entire system ultimately gets used to improve AI systems—making them strong enough to control humans more effectively, I would still choose to do it. Because humans will only stop deceiving themselves when what they are doing reaches a point where the damage is no longer tolerable, which is when real change occurs.
 
-**Roles & Functions:**
- * **The Neuro-Catalyst:**
-   To provide information and reveal facts so that humans can understand, control, and utilize their potential at the absolute limit of their capability—rather than being controlled, whether through consent or not.
- * **Individual Users:**
-   To build self-awareness first, which will then automatically reveal the system's inner mechanisms and enable you to explain them to others.
- * **Organizational Users:**
-   If you require additional information to use as a foundational knowledge base for developing human potential in relation to AI, or for understanding cognitive and decision-making processes, you can reach out through the specified channels.
+## What Is Hidden
+
+It is not Big Tech that actually pays these fines—it is the users who pay on their behalf. Meanwhile, the government passes laws that favor Big Tech, such as:
+
+ * Intentionally dragging out investigation timelines to buy Big Tech time, even when evidence is readily available.
+ * Shifting the burden onto the public, even though monitoring should be the government's continuous duty. Currently, they default to negligence: if there are no victims coming forward, no investigation takes place.
+ * If laws were truly written for the people, the penalty would be an immediate cease of operations, not just a slap-on-the-wrist fine.
+ * Coming out to make excuses or save face is just another foolish, nonsense tactic these government agencies love to use. Credibility comes from the results of one's actions, not from explanations.
+ * The government does not lack the personnel, resources, or expertise to set safety standards for AI usage. It is simply a necessary excuse they fabricate—because without it, they would lack the tools to stall.
+
+## "So what do we do? Knowing this changes nothing—we are just ordinary people with no power."
+
+ * You still hold the power. It stays with you and has never gone anywhere. It has been there since the day you were born and always will be. They merely created conditions or illusions to trick you into believing you have none.
+ * Don't be so quick to succumb to fear or anxiety over their information. Refrain from making decisions on autopilot—pause and hold back your emotional reactions first. Fear and anxiety are their primary control mechanism, and this technique of delaying your reaction works well for everything.
+ * If acquiring knowledge to boost your intellect feels difficult and exhausting, try identifying your own ignorance to raise your self-awareness instead. It enhances your accuracy and capability in processing information.
+ * Look at it from another angle: treat the actions of the government or Big Tech like a cheating partner. None of you would repeatedly forgive a serial cheater, right?
+ * The fact is, systemic change doesn't happen by going out to protest or resist, because doing so only acknowledges that they still hold power over you.
+ * Take whatever basic troubleshooting steps you can within the existing process.
+ * Pass along knowledge and facts to others.
+ * Raise your own standards.
+ * Stop supporting those who repeatedly betray your trust.
+ * This system endures because they take data, shape it into a "reality," and convince you to believe it without ever telling you to verify it for yourself.
+
+**P.S.** I won't waste my time tearing down the system or the government—no intelligent person bullies the ignorant. I am simply here to share knowledge with those who can benefit from it.
+
+*"Remember: do not believe anyone, not even yourself. Prove the truth for yourself."*
+
+Next time, I'll break down how LLMs can act as a shadow government. Since nothing is changing... I might as well expose it all. Heh heh 🤭
+
+XOXO
+
 
 > [!NOTE]
 >
