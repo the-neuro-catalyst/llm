@@ -6,6 +6,8 @@ Citizens sacrifice a portion of their sovereignty to establish the state, enabli
 
 The state is therefore obligated to use tax revenues to hire officials and staff to carry out these operations. In doing so, the state authorizes these officials to exercise power and use resources to safeguard the well-being of the public.
 
+> [!IMPORTANT]
+>
 > **If the state allows its officials to engage in the following behaviors against innocent citizens**—who possess the legitimate right to criticize or clarify facts—**it constitutes a complete betrayal and contradiction of the very nature of the state.** This is because the citizens are both the employers and those who sacrificed for the state in the first place.
 
 ---
@@ -30,6 +32,8 @@ Whether one is a president, a public sanitation worker, or in any other professi
 
 Rather, it is the individuals currently holding these positions who fail to observe their own cognitive processes—processes that have been distorted by the internal expansion of **ego, greed, ignorance, infatuation, and similar forces.**
 
+> [!NOTE]
+>
 > The problem lies not in the position or status itself, **but in one's ability to monitor their own perception and internal distortions.**
 
 ---
