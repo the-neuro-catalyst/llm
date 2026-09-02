@@ -18,7 +18,7 @@
 > * 11+ years without any real progress, except for your inner circle.
 > * 11+ years of acting no differently than the ruling class of the Roman Empire.
 
-***"You haven't lost your humanity; you have simply failed."***
+***"They haven't lost their humanity; they have simply failed."***
 
 ---
 
