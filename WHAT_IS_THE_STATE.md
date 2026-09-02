@@ -15,7 +15,8 @@ Such actions by state officials largely stem from a distorted belief that the au
 ## Conclusion
 The state derives its power solely because the people sacrifice a portion of their sovereignty to create a state entity equipped with authority and tools, specifically to fulfill its duty of protecting the welfare of innocent citizens.
 
-*Written By*
-*Jakkraphop Pengchan*
+---
+
+*Written by Jakkraphop Pengchan*
 
 > Last Update: 2 September 2026
