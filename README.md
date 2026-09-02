@@ -134,6 +134,8 @@ It is not Big Tech that actually pays these fines—it is the users who pay on t
 
 ## "So what do we do? Knowing this changes nothing—we are just ordinary people with no power."
 
+*Reference:* [What is the State? (Unfiltered Truth)](WHAT_IS_THE_STATE.md)
+
  * You still hold the power. It stays with you and has never gone anywhere. It has been there since the day you were born and always will be. They merely created conditions or illusions to trick you into believing you have none.
  * Don't be so quick to succumb to fear or anxiety over their information. Refrain from making decisions on autopilot—pause and hold back your emotional reactions first. Fear and anxiety are their primary control mechanism, and this technique of delaying your reaction works well for everything.
  * If acquiring knowledge to boost your intellect feels difficult and exhausting, try identifying your own ignorance to raise your self-awareness instead. It enhances your accuracy and capability in processing information.
