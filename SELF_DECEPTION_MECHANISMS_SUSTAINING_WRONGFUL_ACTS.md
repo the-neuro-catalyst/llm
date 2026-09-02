@@ -9,6 +9,8 @@ When we look deeply into the phrase **"failing to keep up with oneself,"** it re
 
 Every human possesses the same fundamental potential. However, when faced with misunderstanding and subconscious fear, they erect warped rules and environments as fences to protect that fear. This act stems not from superiority, but from a state where the system has yet to keep up with its own cognitive mechanisms.
 
+> [!NOTE]
+>
 > *"As long as humans fail to keep up with their own thoughts, feelings, and self-deception mechanisms (Lack of Self-Awareness), corruption and excuse-making will persist—because the enemy hardest to keep up with is ourselves."*
 
 ---
@@ -80,4 +82,6 @@ This process unfolds across three primary timeframes, spanning from before the a
 
 ---
 
+> [!IMPORTANT]
+>
 > *"Intent sets the objective; rationale follows. Rationale is merely a tool built to serve intent so it can achieve its goal without guilt."*
