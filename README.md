@@ -217,9 +217,14 @@ This dissection reveals that **none of the global AI standards have ever touched
 
 ## **Other Channels:**
 
-* Reddit: Soon
-* Medium: Soon
+* Reddit: Soon!
+* Medium: Soon!
 
+## **Funding:**
+Platforms: Soon!
+
+*"I don't want to know who is funding this, just as no one wants to publicly disclose their sponsorship."*
+> My job is simply to utilize the resources provided to elevate human intelligence and benefit the world and humanity."
 ---
 
 *Last updated: 31 August 2026*
