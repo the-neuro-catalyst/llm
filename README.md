@@ -73,7 +73,7 @@
 ### **About**
 * [Author](./AUTHOR.md)
 * [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
-* [Structural Blind Spots of Capitalism](https://github.com/the-neuro-catalyst/structural-blind-spots-of-capitalism)
+* [Paradigm Shift Economics](https://github.com/the-neuro-catalyst/the-neuro-catalyst/blob/main/paradigm-shift-economics.md)
 
 ---
 
