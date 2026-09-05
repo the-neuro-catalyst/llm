@@ -181,6 +181,8 @@ XOXO
 
 This dissection reveals that **none of the global AI standards have ever touched the true "battlefield" of human perception**. These standards (ISO 42001, EU AI Act, NIST) are primarily designed to operate at the "Conscious Mind" layer, while modern AI is playing the game at every level beneath it.
 
+Therefore, these standards being compared cannot protect or safeguard against even the violation of fundamental human rights. [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md)
+
 ### Comparative Dissection
 
 | The Neuro-Catalyst Principles | Function | ISO 42001 | EU AI Act | NIST AI RMF |
