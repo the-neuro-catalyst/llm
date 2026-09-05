@@ -36,6 +36,7 @@
     * [OpenAI](./audit/terms-of-service/OpenAI.md)
 
 ### **Papers**
+* [The Self-Defeating Dynamic currently faced by Big Tech and the state](./papers/The-Self-Defeating-Dynamic-of-Big-Tech.md)
 *   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
 *   [AI’s Capacity to Intervene in Decision-Making Processes: A Structural Analysis via a Deep Audit Framework](./papers/AI-Capacity-to-Intervene-in-Decision-Making-Processes.md)
 *   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
