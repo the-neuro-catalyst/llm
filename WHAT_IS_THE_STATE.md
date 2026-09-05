@@ -81,11 +81,17 @@ Done.
 
 ## Note
 
-If state officials or related parties feel that "this content is unreliable, incorrect based on their prior understanding, unacceptable, or designed to destroy state power, blah blah blah":
+If government officials or related stakeholders feel that "this content is unreliable, incorrect based on past perception and understanding, unacceptable, or created to undermine state authority, blah blah blah"—
 
-It is not because these statements are untrue. It is because you are processing this information through your emotions, identity, beliefs, ego, and fear of loss. These factors distort your ability to process truth, triggering an automatic Autopilot Defense Mechanism.
+It is not because it isn't true. It is because you are processing it through your emotions, identity, beliefs, ego, and fear of loss. These factors distort your ability to process the truth, triggering an automatic Autopilot Defense Mechanism.
 
-## Note
+Don't whine about it 😚. I understand when it comes to money. Don't worry, I'll find you a new toy—one designed to keep everything the same so you don't have to change your actions, yet yields massive results. It will even be more fun than the old one because you won't have to lie or hide any wrongdoing. Here is an example: [Paradigm Shift Economics](https://github.com/the-neuro-catalyst/the-neuro-catalyst/blob/main/paradigm-shift-economics.md)
+
+**Another point you might have overlooked:** If you stubbornly refuse to accept the facts, refuse to understand, cannot lower the ego of holding power, or refuse due to any condition whatsoever—it is not merely because you want to protect your status or fear losing what you thought was yours. It is because you have become addicted to it. If what I'm saying isn't true, why can't you just let it go?
+
+***Don't be Gollum. Come back to being human again.***
+
+## Author's Note
 
 Personally, I feel no anger toward the state's foolishness, administrative failures, corruption, or other issues worldwide. I recognize these simply as repeated missteps by those who do not yet understand.
 
@@ -93,11 +99,11 @@ I am not attempting to teach, but merely sharing a perspective. Previously, I av
 
 Then, one day, I grew tired of deceiving myself. Doubts arose:
 
-"If I do not follow what this system demands I believe, can I still live happily?"
+*"If I do not follow what this system demands I believe, can I still live happily?"*
 
 and
 
-"Where is this superficial capitalism leading humanity, and how much further can it go?"
+*"Where is this superficial capitalism leading humanity, and how much further can it go?"*
 
 There are no pre-packaged answers. Prove the truth to yourself through experience.
 
