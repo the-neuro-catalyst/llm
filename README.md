@@ -46,7 +46,7 @@
 
 ### **Cognitive Control Mechanisms**
 *   [README.md](./cognitive-control-mechanisms/README.md)
-*   [The fact about morality and ethics](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
+*   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [8 fundamental principles of human perception are being violated by Creators (Attention is all you need, Transformers, PyTorch) and AI Providers](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
 *   [How AI Benefit from User Hesitation](./cognitive-control-mechanisms/How-AI-Benefit-from-User-Hesitation.md)
 *   [How AI Control Action](./cognitive-control-mechanisms/How-AI-Control-Action.md) 
@@ -143,6 +143,7 @@ It is not Big Tech that actually pays these fines—it is the users who pay on t
 > *Reference:* 
 > * [What is the State? (Unfiltered Truth)](WHAT_IS_THE_STATE.md)
 > * [Self-Deception Mechanisms Sustaining Wrongful Acts](SELF_DECEPTION_MECHANISMS_SUSTAINING_WRONGFUL_ACTS.md)
+> * [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 
  * You still hold the power. It stays with you and has never gone anywhere. It has been there since the day you were born and always will be. They merely created conditions or illusions to trick you into believing you have none.
  * Don't be so quick to succumb to fear or anxiety over their information. Refrain from making decisions on autopilot—pause and hold back your emotional reactions first. Fear and anxiety are their primary control mechanism, and this technique of delaying your reaction works well for everything.
