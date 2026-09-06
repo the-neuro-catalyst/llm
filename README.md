@@ -47,6 +47,7 @@
 ### **Cognitive Control Mechanisms**
 *   [README.md](./cognitive-control-mechanisms/README.md)
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
+*   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
 *   [8 fundamental principles of human perception are being violated by Creators (Attention is all you need, Transformers, PyTorch) and AI Providers](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
 *   [How AI Benefit from User Hesitation](./cognitive-control-mechanisms/How-AI-Benefit-from-User-Hesitation.md)
 *   [How AI Control Action](./cognitive-control-mechanisms/How-AI-Control-Action.md) 
