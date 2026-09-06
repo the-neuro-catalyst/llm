@@ -1,5 +1,7 @@
 # The Truth About LLM (Large Language Model)
 
+***Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated.***
+
 ***...Incentives dictate the system's structure...***
 
 ***...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...***
