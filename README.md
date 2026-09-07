@@ -170,11 +170,6 @@ Next time, I'll break down how LLMs can act as a shadow government. Since nothin
 
 XOXO
 
-
-> [!NOTE]
->
-> Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me. Read more [Commercial Section](./COMMERCIAL.md)
-
 > [!IMPORTANT]
 >
 > * For developers, researchers, or small-to-medium AI providers seeking deeper insight or collaboration: I am genuinely open to supporting and working with you.
@@ -218,6 +213,10 @@ Therefore, these standards being compared cannot protect or safeguard against ev
 | **Legal Constructive Notice** | **Enforced via Immutable Public Registry & Timestamp Logs** | Disclaimed via Standard Legal Shielding | Disclaimed via Advisory Scope Limitations | Disclaimed via Corporate Risk Warnings | Disclaimed via Liability Caps |
 
 📄 [Read more](./COMMERCIAL.md)
+
+> [!NOTE]
+>
+> Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me.
 
 ---
 
