@@ -233,8 +233,12 @@ Therefore, these standards being compared cannot protect or safeguard against ev
 ## **Funding:**
 Platforms: Soon!
 
-*"I don't want to know who is funding this, just as no one wants to publicly disclose their sponsorship."*
-> My job is simply to utilize the resources provided to elevate human intelligence and benefit the world and humanity."
+> [!IMPORTANT]
+> 
+> I don't want to know who is funding this, just as no one wants to publicly disclose their sponsorship.
+>
+> My job is simply to utilize the resources provided to elevate human wisdom orver intelligence and benefit the world and humanity.
+
 ---
 
 *Last updated: 7 September 2026*
