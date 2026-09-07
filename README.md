@@ -113,6 +113,8 @@ On the other hand, It is no different from **Smart Glasses** sold under the narr
 >
 > * The "creators of Transformers" refers to Hugging Face, not Google, who invented "Attention Is All You Need"
 > * Users, developers, researchers, and AI providers can bring facts to refute my claims and argue that what I am presenting is not true.
+> * Criticize, argue, or even be rude—just prove first that you can keep up with yourself.
+> Data Reception ---> Data Processing ---> Understanding Process ---> Pre-Emotional Process = Mindfulness (Sati) ≠ Knowing what you are doing ≠ Academic Knowledge 
 
 ---
 
