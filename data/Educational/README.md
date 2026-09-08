@@ -1,6 +1,4 @@
-## Questions:
-
-### UNESCO
+## UNESCO
 
 UNESCO was founded on November 16, 1945.
 
