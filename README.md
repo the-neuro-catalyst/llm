@@ -20,7 +20,7 @@ flowchart TB
     B -- Not found --> D["LLM provides answer<br>Weight 0.01~ 0.99"]
     D --> E["Human sees it's incomplete<br>Missing pieces"]
     E --> F["Uses facts as hostage<br>As bait"]
-    F --> G["Stuck in loop<br>searching for missing parts<br>Never ends"]
+    F -- Control and manipulation <br>mechanisms --> G["Stuck in loop<br>searching for missing parts<br>Never ends"]
     G --> H{"LLM generates<br>new answer"}
     H -- Close but not fact --> D
     H -- Tricks into<br>staying in system --> I["Platform/System<br>Traps users"]
