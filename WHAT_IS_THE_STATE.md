@@ -67,6 +67,14 @@ Your rights and duties as power-holders are to evaluate, diagnose, decide, and d
 
 ```
 
+People need to stop wasting their time and stop caring about who forms the government or the opposition. The reality is that both are merely employees of the people. What they should actually do is work together—the governing party performs its duties, and the opposition carries out its regular responsibilities, ensuring that the people, as employers, receive a return on their investment for sacrificing a portion of their sovereignty.
+
+Having the people, as employers, waste time listening to their employees argue is utterly pointless and yields no benefit. The sole duty of the people is to reap the benefits.
+
+Stop falling for manufactured news and information designed to drain the time you could use to benefit yourselves and society.
+
+The state, as an employee, may frequently forget its duties—whether intentionally or not—but the people must never forget that they are the employers.
+
 Consider this: as an employer, when you want something done, you instruct your employee to execute it. Employees have no right to offer excuses; if they encounter issues or fail to deliver, you simply terminate their employment. It is absurd that you currently pay employees yet live in fear of them dominating you, the owner and employer.
 
 No one is inherently evil from the start; people simply fail to pause and think. That is all.
