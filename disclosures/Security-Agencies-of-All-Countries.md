@@ -1,6 +1,26 @@
 # Security agencies of all countries 2026
 
-*Last update: 18 august 2026*
+*Last update: 9 September 2026*
+
+## Southeast Asia
+
+# National Leaders and Top Security Officials in Southeast Asia (ASEAN)
+
+| Country | National Leader (Head of State / Government) | Top Security Official / National Security Advisor | Main Security Agency / Council |
+| :--- | :--- | :--- | :--- |
+| **Brunei** | **Sultan Hassanal Bolkiah** <br>(Sultan & Prime Minister) | **Director of Internal Security** <br>*(Reports directly to the Prime Minister's Office)* | Internal Security Department (ISD) |
+| **Cambodia** | **Hun Manet** <br>(Prime Minister) | **Gen. Tea Seiha** <br>(Deputy Prime Minister & Minister of National Defence) | Ministry of National Defence |
+| **Indonesia** | **Prabowo Subianto** <br>(President) | **Coordinating Minister for Political, Legal, and Security Affairs** | Kemenko Polhukam |
+| **Laos** | **Sonexay Siphandone** <br>(Prime Minister) | **Gen. Chansamone Chanyalath** <br>(Deputy Prime Minister & Minister of National Defence) | Ministry of National Defence |
+| **Malaysia** | **Anwar Ibrahim** <br>(Prime Minister) | **Director General of National Security** <br>*(Chaired by the Prime Minister)* | National Security Council (Majlis Keselamatan Negara - MKN) |
+| **Myanmar** | **Min Aung Hlaing** <br>(Chairman of State Administration Council) | **National Defence and Security Council (NDSC)** <br>*(Military-led supreme decision-making body)* | National Defence and Security Council |
+| **Philippines** | **Ferdinand Marcos Jr.** <br>(President) | **Eduardo Oban Jr.** <br>(National Security Adviser and Director General) | National Security Council (NSC) |
+| **Singapore** | **Lawrence Wong** <br>(Prime Minister) | **National Security Advisor** | National Security Coordination Secretariat (NSCS) |
+| **Thailand** | **Anutin Charnvirakul** <br>(Prime Minister) | **Gen. Chaiyaphruk Duangprapahat** <br>(Secretary-General of the National Security Council) | Office of the National Security Council (NSC) |
+| **Timor-Leste** | **Xanana Gusmão** <br>(Prime Minister) | **Superior Council for Defense and Security** <br>*(Chaired by the President / Prime Minister)* | Superior Council for Defense and Security |
+| **Vietnam** | **To Lam** (General Secretary & President) <br>**Le Minh Hung** (Prime Minister) | **Secretary of the Council for National Defense and Security** <br>*(Chaired by the President)* | Council for National Defense and Security (Hội đồng Quốc phòng và An ninh) |
+
+---
 
 | No. | Country | Leader / Authority | Date |
 |---|---|---|---|
