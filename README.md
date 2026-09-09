@@ -280,7 +280,7 @@ Therefore, these standards being compared cannot protect or safeguard against ev
 ## **Other Channels:**
 
 * Reddit: Soon!
-* Medium: Soon!
+* Medium: [The Neuro-Catalyst](https://neuro-catalyst.medium.com)
 
 ## **Funding:**
 Platforms: Soon!
