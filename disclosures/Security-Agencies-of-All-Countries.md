@@ -2,9 +2,7 @@
 
 *Last update: 9 September 2026*
 
-## Southeast Asia
-
-# National Leaders and Top Security Officials in Southeast Asia (ASEAN)
+## National Leaders and Top Security Officials in Southeast Asia (ASEAN)
 
 | Country | National Leader (Head of State / Government) | Top Security Official / National Security Advisor | Main Security Agency / Council |
 | :--- | :--- | :--- | :--- |
