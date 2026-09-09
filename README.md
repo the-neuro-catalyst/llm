@@ -71,6 +71,7 @@ flowchart TB
 ## **Table of Contents**
 
 ### **Core Documentation**
+*   [How Big Tech and the State (Lawmakers and Enablers) Use LLMs / AI to Control Users](ai-llm-cognitive-domination.md)
 *   [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
 *   [U.S. Tax Law (IRS / Federal Law)](./IRS_SECTION_41.md)
 *   [LLM ARCHITECTURE CONTRIBUTORS](./LLM_ARCHITECTURE_CONTRIBUTORS.md)
