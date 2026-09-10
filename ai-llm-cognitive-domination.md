@@ -1,5 +1,7 @@
 # How Big Tech and the State (Lawmakers and Enablers) Use LLMs / AI to Control Users
 
+![ai-llm-cognitive-domination](images/ai-llm-cognitive-domination.png)
+
 This process is known as **Cognitive Domination through instruction structures and repetition using language as a tool, which differs from plain explanation or information sharing.**
 
 ---
