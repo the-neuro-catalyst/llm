@@ -109,7 +109,8 @@ flowchart TB
 *   [How AI Maintain Status Quo and System Stability](./cognitive-control-mechanisms/How-AI-Maintain-Status-Quo-and-System-Stability.md) 
 *   [How Delay Functions as System Control](./cognitive-control-mechanisms/How-Delay-Functions-as-System-Control.md) 
 *   [How Friction and Self-Correction Preserve Control](./cognitive-control-mechanisms/How-Friction-and-Self-Correction-Preserve-Control.md) 
-*   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md) 
+*   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md)
+*   [Observer vs Actor](./cognitive-control-mechanisms/observer-vs-actor.md) 
 
 
 ### **Disclosures**
