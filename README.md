@@ -103,6 +103,7 @@ flowchart TB
 *   [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md)
 
 ### **Cognitive Control Mechanisms**
+* Coming soon! Unveiling the hidden mechanisms through mathematical equations.
 *   [README.md](./cognitive-control-mechanisms/README.md)
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
