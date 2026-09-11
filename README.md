@@ -54,7 +54,8 @@
 *   [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md)
 
 ### **Cognitive Control Mechanisms**
-* Coming soon! Unveiling the hidden mechanisms through mathematical equations.
+* Coming soon! The revelation of a mechanism hidden within mathematical equations. They hid it where nobody expected: open source.
+​I will transform it into a song, as it offers a deeper and easier understanding than regular explanations.
 *   [README.md](./cognitive-control-mechanisms/README.md)
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
