@@ -2,6 +2,8 @@
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
+***...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...***
+
 ***Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated.***
 
 ***...Incentives dictate the system's structure...***
