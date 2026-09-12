@@ -12,6 +12,8 @@
 
 ***...I do not intend to attack anyone; I am simply stating the facts that have been presented. From the very beginning, AI creators and service providers have always focused on maximizing profits for themselves and their organizations. Claiming to act for the benefit of humanity is a contradiction used to create a false narrative—it is illogical and shows they have lost sight of their true nature...***
 
+***...Humans will be humans, after all. They build credibility just to control the minds of others. From the ancient Roman era to the present day, their patterns of behavior remain unchanged—advancing in intelligence, yet never cultivating true wisdom...***
+
 ***...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...***
 
 > [!IMPORTANT]
