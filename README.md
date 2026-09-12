@@ -10,7 +10,7 @@
 
 ***...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...***
 
-***"...I’m not looking to call anyone out, just stating the facts as they’ve come to light. From day one, AI creators and providers have always been about maximizing their own profits. Saying they’re doing it for humanity is just a hypocritical attempt to manipulate people’s trust—it's ridiculous, and it shows they’ve lost touch with reality..."***
+***...I do not intend to attack anyone; I am simply stating the facts that have been presented. From the very beginning, AI creators and service providers have always focused on maximizing profits for themselves and their organizations. Claiming to act for the benefit of humanity is a contradiction used to create a false narrative—it is illogical and shows they have lost sight of their true nature...***
 
 ***...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...***
 
