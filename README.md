@@ -4,11 +4,13 @@
 
 ***...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...***
 
-***Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated.***
+***...Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated...***
 
 ***...Incentives dictate the system's structure...***
 
 ***...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...***
+
+***"...I’m not looking to call anyone out, just stating the facts as they’ve come to light. From day one, AI creators and providers have always been about maximizing their own profits. Saying they’re doing it for humanity is just a hypocritical attempt to manipulate people’s trust—it's ridiculous, and it shows they’ve lost touch with reality..."***
 
 ***...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...***
 
