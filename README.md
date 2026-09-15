@@ -235,8 +235,9 @@ XOXO
 📄 [Read more](./COMMERCIAL.md)
 
 > [!NOTE]
->
-> Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me.
+> 
+> * There is no service fee for non-profit organizations.
+> * Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me.
 
 ---
 
