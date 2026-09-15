@@ -253,7 +253,7 @@ XOXO
 
 ## **Funding:**
 
-⛽ Refuel: [Click](buymeacoffee.com/neurocatalyst)
+⛽ Refuel: [Click](https://buymeacoffee.com/neurocatalyst)
 
 > [!IMPORTANT]
 > 
