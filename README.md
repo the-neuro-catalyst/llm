@@ -60,9 +60,9 @@
 *   [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md)
 
 ### **Cognitive Control Mechanisms**
-* Coming soon! The revelation of a mechanism hidden within mathematical equations. They hid it where nobody expected: open source.
-​I will transform it into a song, as it offers a deeper and easier understanding than regular explanations.
-    * [The Answer Becomes Me(Data Vendors | RLHF + Belief Rigidity + Labeling)](./cognitive-control-mechanisms/fundamental/the-answer-becomes-me.md)
+* The revelation of a mechanism hidden within mathematical equations. They hid it where nobody expected: **OPEN SOURCE**.
+​Transform into songs, as it offers a deeper and easier understanding than regular explanations.
+    * [The Answer Becomes Me(RLHF + Belief Rigidity)](./cognitive-control-mechanisms/fundamental/the-answer-becomes-me.md)
     * [The Error Travels Back (Chain Rule + Gradient + Backpropagation + Optimization + Weight Decay)](./cognitive-control-mechanisms/fundamental/the-error-travels-back.md)
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
