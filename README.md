@@ -252,7 +252,8 @@ XOXO
 * Medium: [The Neuro-Catalyst](https://neuro-catalyst.medium.com)
 
 ## **Funding:**
-Platforms: Soon!
+
+⛽ Refuel: [Click](buymeacoffee.com/neurocatalyst)
 
 > [!IMPORTANT]
 > 
