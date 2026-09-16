@@ -66,6 +66,7 @@
     * [The Error Travels Back (Chain Rule + Gradient + Backpropagation + Optimization + Weight Decay)](./cognitive-control-mechanisms/fundamental/the-error-travels-back.md)
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
+    * Between the lines (Soon!)
 *   [README.md](./cognitive-control-mechanisms/README.md)
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
