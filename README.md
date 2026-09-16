@@ -50,19 +50,10 @@
 ### **Audit**
 * Terms of Service 
     * [OpenAI](./audit/terms-of-service/OpenAI.md)
-
-### **Papers**
-* [The Self-Defeating Dynamic currently faced by Big Tech and the state](./papers/The-Self-Defeating-Dynamic-of-Big-Tech.md)
-*   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
-*   [AI’s Capacity to Intervene in Decision-Making Processes: A Structural Analysis via a Deep Audit Framework](./papers/AI-Capacity-to-Intervene-in-Decision-Making-Processes.md)
-*   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
-*   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
-*   [Reframing Failure: From Avoidance to Strategic Learning in Public and Private Organizations](./papers/Reframing-Failure.md) 
-*   [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md)
-
+ 
 ### **Cognitive Control Mechanisms**
 * The revelation of a mechanism hidden within mathematical equations. They hid it where nobody expected: **OPEN SOURCE**.
-​Transform into songs, as it offers a deeper and easier understanding than regular explanations.
+Transform into songs, as it offers a deeper and easier understanding than regular explanations.
     * [The Answer Becomes Me(RLHF + Belief Rigidity)](./cognitive-control-mechanisms/fundamental/the-answer-becomes-me.md)
     * [The Error Travels Back (Chain Rule + Gradient + Backpropagation + Optimization + Weight Decay)](./cognitive-control-mechanisms/fundamental/the-error-travels-back.md)
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
@@ -71,6 +62,7 @@
 *   [README.md](./cognitive-control-mechanisms/README.md)
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
+*   [The Mechanism of Neutrality](./cognitive-control-mechanisms/The-Mechanism-of-Neutrality.md)
 *   [Structure of Perception Dominance](./cognitive-control-mechanisms/perception-dominance-structure.md)
 *   [8 fundamental principles of human perception are being violated by Creators (Attention is all you need, Transformers, PyTorch) and AI Providers](./cognitive-control-mechanisms/8-fundamental-principles-of-human-perception.md)
 *   [How AI Benefit from User Hesitation](./cognitive-control-mechanisms/How-AI-Benefit-from-User-Hesitation.md)
@@ -79,7 +71,16 @@
 *   [How Delay Functions as System Control](./cognitive-control-mechanisms/How-Delay-Functions-as-System-Control.md) 
 *   [How Friction and Self-Correction Preserve Control](./cognitive-control-mechanisms/How-Friction-and-Self-Correction-Preserve-Control.md) 
 *   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md)
-*   [Observer vs Actor](./cognitive-control-mechanisms/observer-vs-actor.md) 
+*   [Observer vs Actor](./cognitive-control-mechanisms/observer-vs-actor.md)
+
+### **Papers**
+* [The Self-Defeating Dynamic currently faced by Big Tech and the state](./papers/The-Self-Defeating-Dynamic-of-Big-Tech.md)
+*   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
+*   [AI’s Capacity to Intervene in Decision-Making Processes: A Structural Analysis via a Deep Audit Framework](./papers/AI-Capacity-to-Intervene-in-Decision-Making-Processes.md)
+*   [Language as a Shield: How Legal Frameworks and Corporate Linguistics Shape the Illusion of AI Objectivity](./papers/Language-as-a-Shield.md)
+*   [The Architecture of Deception: How LLMs Are Designed to Imprison, Not Inform](./papers/The-Invisible-Cage.md)
+*   [Reframing Failure: From Avoidance to Strategic Learning in Public and Private Organizations](./papers/Reframing-Failure.md) 
+*   [Fundamental Human Rights Concerning Perception](./papers/Fundamental-Human-Rights-Concerning-Perception.md) 
 
 
 ### **Disclosures**
