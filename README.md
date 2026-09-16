@@ -32,6 +32,7 @@
 > All these details save you 2 years of acquiring cross-disciplinary knowledge—because it isn't just about reading for comprehension, but also navigating the trial-and-error of system tricks. This isn't just an information database; it's an armory that will continuously be restocked.
 
 ### **Core Documentation**
+*   [The Truth About AI/LLMs](THE_TRUTH_ABOUT_AI_LLM.md)
 *   [How Big Tech and the State (Lawmakers and Enablers) Use LLMs / AI to Control Users](ai-llm-cognitive-domination.md)
 *   [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
 *   [U.S. Tax Law (IRS / Federal Law)](./IRS_SECTION_41.md)
