@@ -103,6 +103,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
 * [Author](./AUTHOR.md)
 * [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
 * [Paradigm Shift Economics](https://github.com/the-neuro-catalyst/the-neuro-catalyst/blob/main/paradigm-shift-economics.md)
+* [What the Algorithm Feeds You When You're Not Looking](https://github.com/the-neuro-catalyst/the-neuro-catalyst/blob/main/systems-diary/what-the-algorithm-feeds-you.md)
 
 ---
 
