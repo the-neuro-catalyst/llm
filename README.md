@@ -59,7 +59,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
     * Between the lines (Soon!)
-*   [README.md](./cognitive-control-mechanisms/README.md)
+*   Coming Soon! Why Self-Awareness and Internal Processing Aren't Taught as Basic Life Skills
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
 *   [The Mechanism of Neutrality](./cognitive-control-mechanisms/The-Mechanism-of-Neutrality.md)
