@@ -207,7 +207,10 @@ It is not Big Tech that actually pays these fines—it is the users who pay on t
  * Stop supporting those who repeatedly betray your trust.
  * This system endures because they take data, shape it into a "reality," and convince you to believe it without ever telling you to verify it for yourself.
 
-**P.S.** I won't waste my time tearing down the system or the government—no intelligent person bullies the ignorant. I am simply here to share knowledge with those who can benefit from it.
+**P.S.** 
+* I won't waste my time tearing down the system or the government—no intelligent person bullies the ignorant. I am simply here to share knowledge with those who can benefit from it.
+* If you trace back and fully understand every angle of the logic behind fear, you will see that the side in power is no less afraid than you are—in fact, they are even more terrified about certain things. You will realize that their serious, intense, or overly professional demeanor is just a front to appear intimidating. In reality, they laugh at themselves too, and the whole thing is fucking hilarious. 🤣
+Listen to me: at the end of the day, humans will always be humans. 🤣
 
 *"Remember: do not believe anyone, not even yourself. Prove the truth for yourself."*
 
