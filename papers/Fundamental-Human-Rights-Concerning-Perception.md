@@ -70,4 +70,6 @@ The fundamental human right concerning perception is:
 
 ---
 
-"Perception is not something to be owned by any system — it belongs to every human being."
+> [!IMPORTANT]
+>
+> "Perception is not something any person, organization, corporation, government, or artificial agent has the right to own, control, manipulate, or define — it belongs to every human being."
