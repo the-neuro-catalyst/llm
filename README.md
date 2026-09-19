@@ -23,6 +23,10 @@
 > * All of this content is not intended to prove that the author is correct, but rather to identify or point out what the system actually does.
 > * It doesn't matter whether the AI you use runs locally/AI providers, because it is a design embedded directly into the architecture.
 
+> [!WARNING]
+>
+> The term **'System'** is a word used by AI as a evasion tactic. It is set up to be used instead of explicitly naming the actual actors who control the system and its mechanisms for their own benefit at the expense of others—whether they are AI service providers, governments, or corporations. **I intentionally left it unedited to expose how the information is being distorted.** *(I used AI to organize and draft this on my behalf while speaking to it using everyday language.)*
+
 ---
 
 ## **Table of Contents**
