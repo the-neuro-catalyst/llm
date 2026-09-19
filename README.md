@@ -78,6 +78,8 @@ Transform into songs, as it offers a deeper and easier understanding than regula
 *   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md)
 *   [Observer vs Actor](./cognitive-control-mechanisms/observer-vs-actor.md)
 
+### Soon! Cognitive Control Mechanisms - Medium Raw Version (Medium Rare Steak)
+
 ### **Papers**
 * [The Self-Defeating Dynamic currently faced by Big Tech and the state](./papers/The-Self-Defeating-Dynamic-of-Big-Tech.md)
 *   [The Architecture of Control: How Large Language Models Are Systematically Designed to Establish and Maintain Power Over Users](./papers/The-Architect-of-Control.md)
