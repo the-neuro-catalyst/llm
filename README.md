@@ -63,6 +63,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
     * Between the lines (Soon!)
+*   Coming Soon! The Underlying Mechanisms Behind What Sam Altman, Elon Musk, and Dario Amodei Say About AI Hacking
 *   Coming Soon! How Subconscious Control Shapes the Real World
 *   Coming Soon! Why Statistics Are Never Neutral
 *   Coming Soon! A list of phrases AI uses to "Soften Its Tone".
