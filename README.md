@@ -111,6 +111,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
 *  [STRATEGIC DECISION & IMPACT DIAGNOSTIC](./COMMERCIAL.md)
 
 ### **About**
+* Coming Soon! [The Language of Power](https://github.com/the-neuro-catalyst/the-language-of-power)
 * Coming Soon! [Mechanisms Behind The Law](https://github.com/the-neuro-catalyst/mechanisms-behind-the-law) - The cost of a cover-up is always immense.
 * [Author](./AUTHOR.md)
 * [The Neuro-Catalyst](https://github.com/the-neuro-catalyst/the-neuro-catalyst)
