@@ -63,6 +63,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
     * Between the lines (Soon!)
+*   Coming Soon! A list of phrases AI uses to "Soften Its Tone".
 *   Coming Soon! Why Self-Awareness and Internal Processing Aren't Taught as Basic Life Skills
 *   Coming soon! Facts that will make you lose your fear of SLAPP lawsuits once and for all. I'll take you deeper than just a legal perspective—into something even those who created these laws don't fully understand.
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
