@@ -1,4 +1,4 @@
-# The Truth About AI/LLMs (Large Language Model)
+Soon The Truth About AI/LLMs (Large Language Model)
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
@@ -63,6 +63,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
     * Between the lines (Soon!)
+*   Coming Soon! How Subconscious Control Shapes the Real World
 *   Coming Soon! Why Statistics Are Never Neutral
 *   Coming Soon! A list of phrases AI uses to "Soften Its Tone".
 *   Coming Soon! Why Self-Awareness and Internal Processing Aren't Taught as Basic Life Skills
