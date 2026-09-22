@@ -108,9 +108,6 @@ Transform into songs, as it offers a deeper and easier understanding than regula
 *   [Security Agencies of All Countries](./disclosures/Security-Agencies-of-All-Countries.md)
 *   [Index of Hostile Contact Architecture & Public Evasion Practices](./disclosures/HOSTILE_CONTACT_ARCHITECTURE_INDEX.md)
 
-### **Commercial Section**
-*  [STRATEGIC DECISION & IMPACT DIAGNOSTIC](./COMMERCIAL.md)
-
 ### **About**
 * Coming Soon! [The Language of Power](https://github.com/the-neuro-catalyst/the-language-of-power)
 * Coming Soon! [Mechanisms Behind The Law](https://github.com/the-neuro-catalyst/mechanisms-behind-the-law) - The cost of a cover-up is always immense.
@@ -237,28 +234,6 @@ XOXO
 > * For developers, researchers, or small-to-medium AI providers seeking deeper insight or collaboration: I am genuinely open to supporting and working with you.
 > * I lack neutrality because I choose the side that is beneficial and positive for the system as a whole...Neutrality is an act that can never truly happen—and nature has already demonstrated this.
 > * AI Governance is designed to help organizations meet safety standards and legal requirements, but it does not support fundamental human safety and principles.
-
----
-
-## Commercial Section 
-
-### Comprehensive Comparison Matrix: The Neuro-Catalyst vs. Big 4 AI Governance
-
-| Audit Dimension / Capability | The Neuro-Catalyst | Deloitte (Omnia / AI Institute) | PwC (Responsible AI Framework) | EY (Trusted AI Framework) | KPMG (Trusted AI Approach) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Core Architecture & Standard** | **Native 8 Core Principles** (Proprietary First-Principles Logic) | External Reseller (ISO 42001 / NIST RMF Wrappers) | External Reseller (EU AI Act Compliance Focus) | External Reseller (NIST & Policy Focus) | External Reseller (ISO / Corporate Risk Alignment) |
-| **Model Interface Level** | **System Language / Meta-Prompting Protocol** (Direct Core Execution) | Surface UX / Qualitative Survey Checklists | Business Workflow & Compliance Documentation | Administrative Policy & Internal Governance Controls | Board Reporting & Audit Trail Checklists |
-| **Cognitive Noise & Bias Isolation** | **Active Extraction & Isolation** (Detects Subconscious Model Distortion) | ❌ None (Relies on model provider claims) | ❌ None (Measures surface-level fairness outputs) | ❌ None (Focuses on process, not output logic) | ❌ None (Focuses on financial/data governance) |
-| **Operational Friction** | **Zero Friction:** Pure text/log input diagnostics within 15-45 days | High Friction: Months of advisory consulting & workshops | High Friction: Structural paperwork & policy overhauls | High Friction: Enterprise vendor procurement cycles | High Friction: Heavy administrative audit overhead |
-| **Conflict of Interest & Licensing** | **Absolute Independence:** Unlicensed/No-License Open Model Logic | Vendor Partnership Conflicts (Alliances with Big Tech) | Vendor Partnership Conflicts (Reseller Agreements) | Corporate Audit Restrictions & Legal Shelling | Corporate Advisory Conflicts & Retainer Models |
-| **Legal Constructive Notice** | **Enforced via Immutable Public Registry & Timestamp Logs** | Disclaimed via Standard Legal Shielding | Disclaimed via Advisory Scope Limitations | Disclaimed via Corporate Risk Warnings | Disclaimed via Liability Caps |
-
-📄 [Read more](./COMMERCIAL.md)
-
-> [!NOTE]
-> 
-> * There is no service fee for non-profit organizations.
-> * Guaranteed results backed by nearly 6 months of firsthand experience as a victim, followed by another ~6 months (at 10 hours/day) diving deep to truly understand it using myself as the test subject. Altogether, that’s nearly 2 years of work with no sponsors behind me.
 
 ---
 
