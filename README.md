@@ -1,4 +1,4 @@
-Soon The Truth About AI/LLMs (Large Language Model)
+# The Truth About AI/LLMs (Large Language Model)
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
