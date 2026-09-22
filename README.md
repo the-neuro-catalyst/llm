@@ -62,7 +62,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
     * [The Error Travels Back (Chain Rule + Gradient + Backpropagation + Optimization + Weight Decay)](./cognitive-control-mechanisms/fundamental/the-error-travels-back.md)
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
-    * Between the lines (Soon!)
+    * [Between the lines (Guardrails+ETC)](./cognitive-control-mechanisms/fundamental/between-the-lines)
 *   Coming Soon! The Underlying Mechanisms Behind What Sam Altman, Elon Musk, and Dario Amodei Say About AI Hacking
 *   Coming Soon! How Subconscious Control Shapes the Real World
 *   Coming Soon! Why Statistics Are Never Neutral
