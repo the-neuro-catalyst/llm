@@ -71,6 +71,7 @@ Transform into songs, as it offers a deeper and easier understanding than regula
 *   Coming Soon! A list of phrases AI uses to "Soften Its Tone".
 *   Coming Soon! Why Self-Awareness and Internal Processing Aren't Taught as Basic Life Skills
 *   Coming soon! Facts that will make you lose your fear of SLAPP lawsuits once and for all. I'll take you deeper than just a legal perspective—into something even those who created these laws don't fully understand.
+*   Coming Soon! The Hidden Meaning When You Are Marked as Offline
 *   [Morality and Ethics Mechanism](./cognitive-control-mechanisms/Morality-and-Ethics-Mechanism.md)
 *   [Etiquette Control Mechanism](./cognitive-control-mechanisms/Etiquette_Control_Mechanism_Facts.md)
 *   [The Mechanism of Neutrality](./cognitive-control-mechanisms/The-Mechanism-of-Neutrality.md)
