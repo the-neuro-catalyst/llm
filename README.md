@@ -6,6 +6,7 @@
 
 *...**Ego** exists at an instinctual level and is inherently given by nature. Whether it is present to a greater or lesser degree depends on one's ability to access the truth, not merely on self-control...*
 
+*...The problem originates from **"Humans (creators, AI providers, data vendors, and data along with data creators)"** who attempt to shift the blame onto AI...*
 
 *...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...*
 
