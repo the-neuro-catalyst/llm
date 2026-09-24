@@ -22,6 +22,8 @@
 
 *...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...*
 
+**To summarize simply and briefly:** AI was created to control perception and act as an arbiter of truth. Issues like bias or other concerns are merely distractions used to divert attention while they put on a show together. Meanwhile, the ones who suffer the consequences are, as always, the users. End of story. 
+
 > [!IMPORTANT]
 >
 > **Quick Summary:**
