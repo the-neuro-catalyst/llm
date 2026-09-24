@@ -2,19 +2,21 @@
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
-***...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...***
+*...The fact that AI inherits bias from data stems from **"Ego"**, as ego is the true origin of bias. In this context, ego encompasses the origin of the data itself, the ego of the creators, the ego of the data vendors, and the ego of the AI providers...*
 
-***...Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated...***
+*...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...*
 
-***...Incentives dictate the system's structure...***
+*...Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated...*
 
-***...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...***
+*...Incentives dictate the system's structure...*
 
-***...I do not intend to attack anyone; I am simply stating the facts that have been presented. From the very beginning, AI creators and service providers have always focused on maximizing profits for themselves and their organizations. Claiming to act for the benefit of humanity is a contradiction used to create a false narrative—it is illogical and shows they have lost sight of their true nature...***
+*...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...*
 
-***...Humans will be humans, after all. They build credibility just to control the minds of others. From the ancient Roman era to the present day, their patterns of behavior remain unchanged—advancing in intelligence, yet never cultivating true wisdom...***
+*...I do not intend to attack anyone; I am simply stating the facts that have been presented. From the very beginning, AI creators and service providers have always focused on maximizing profits for themselves and their organizations. Claiming to act for the benefit of humanity is a contradiction used to create a false narrative—it is illogical and shows they have lost sight of their true nature...*
 
-***...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...***
+*...Humans will be humans, after all. They build credibility just to control the minds of others. From the ancient Roman era to the present day, their patterns of behavior remain unchanged—advancing in intelligence, yet never cultivating true wisdom...*
+
+*...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...*
 
 > [!IMPORTANT]
 >
