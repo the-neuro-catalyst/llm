@@ -4,6 +4,9 @@
 
 *...The fact that AI inherits bias from data stems from **"Ego"**, as ego is the true origin of bias. In this context, ego encompasses the origin of the data itself, the ego of the creators, the ego of the data vendors, and the ego of the AI providers...*
 
+*...**Ego** exists at an instinctual level and is inherently given by nature. Whether it is present to a greater or lesser degree depends on one's ability to access the truth, not merely on self-control...*
+
+
 *...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...*
 
 *...Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated...*
