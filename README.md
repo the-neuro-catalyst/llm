@@ -297,6 +297,8 @@ XOXO
 >
 > The clever act out of goodness; the wise act out of emptiness.
 >
+> ***The Wise/Awakened = A name used just to cover up the fact that used to be an idiot 🤣***
+> 
 > I bring up money not out of greed. But if the capitalist system weren't so corrupt, foolish, and exploitative—to the point of restricting access to basic resources for standard human living, even for those who wish not to play these foolish games—I would never waste my time taking on sponsors. I wouldn't even waste my time exposing these absurd mechanisms.
 >
 > It is entirely normal for even the wise to criticize with emotion, as the wise remain human. No wise person wastes time inventing new jargon "to sound professional, build credibility, and control the behavior of others." (When I have time, I'll break down the mechanisms behind "professionalism"—and let me tell you, it is utterly pathetic. Its original meaning before being distorted was simply the word "Profession." 😚)
