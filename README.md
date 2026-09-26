@@ -42,7 +42,8 @@ I do not intend to attack anyone; I am simply stating the facts that have been p
 
 > [!IMPORTANT]
 >
-> All these details save you 2 years of acquiring cross-disciplinary knowledge—because it isn't just about reading for comprehension, but also navigating the trial-and-error of system tricks. This isn't just an information database; it's an armory that will continuously be restocked.
+> * All these details save you 2 years of acquiring cross-disciplinary knowledge—because it isn't just about reading for comprehension, but also navigating the trial-and-error of system tricks. This isn't just an information database; it's an armory that will continuously be restocked.
+> * [Information about "Coming Soon!"](#funding)
 
 ### **Core Documentation**
 *   [The Truth About AI/LLMs](THE_TRUTH_ABOUT_AI_LLM.md)
@@ -272,7 +273,7 @@ XOXO
 * Reddit: Soon!
 * Medium: [The Neuro-Catalyst](https://neuro-catalyst.medium.com)
 
-## **Funding:**
+## Funding
 
 ⛽ Refuel: [Click](https://buymeacoffee.com/neurocatalyst)
 
@@ -281,6 +282,24 @@ XOXO
 > I don't want to know who is funding this, just as no one wants to publicly disclose their sponsorship. However, for those who wish to disclose their names, I can process it as usual.
 >
 > My job is simply to utilize the resources provided to elevate human wisdom orver intelligence and benefit the world and humanity.
+
+> [!NOTE]
+>
+> "Coming Soon" will only be revealed once supported, as what currently exists is already sufficient to protect against cognitive distortion for survival.
+>
+> Accustomed to the habit of taking from natural resources for free without ever giving back?
+>
+> My revealing this isn't because they are evil or you are good. The fact is, you and they are no different—because everyone chooses to turn a blind eye to the truth. These actions are driven by ego mechanisms aimed at conserving processing power, as you avoid self-transformation. This happens because your subconscious has learned that survival is possible without change, and you will never change until you reach a point where the damage is no longer tolerable. That is the fundamental truth of human nature.
+>
+> The true intention behind everything I do is simply to pass knowledge on to children, so they aren't trapped intellectually by ignorance masquerading as intelligence. I "give to those who deserve it." The deeper layer of this intention isn't out of love for children or humanity, but because I know that when humans possess true wisdom, they won't cause self-inflicted harm that impacts other ecosystems.
+>
+> The clever protect their Ego; the wise choose to destroy it.
+>
+> The clever act out of goodness; the wise act out of emptiness.
+>
+> I bring up money not out of greed. But if the capitalist system weren't so corrupt, foolish, and exploitative—to the point of restricting access to basic resources for standard human living, even for those who wish not to play these foolish games—I would never waste my time taking on sponsors. I wouldn't even waste my time exposing these absurd mechanisms.
+>
+> It is entirely normal for even the wise to criticize with emotion, as the wise remain human. No wise person wastes time inventing new jargon "to sound professional, build credibility, and control the behavior of others." (When I have time, I'll break down the mechanisms behind "professionalism"—and let me tell you, it is utterly pathetic. Its original meaning before being distorted was simply the word "Profession." 😚)
 
 ---
 
