@@ -130,11 +130,17 @@ Operationally, those who seek genuine enlightenment willingly accept the debt in
 
 Regarding your position: although I have forced this exposure upon you, it represents merely a fraction of the whole. (I am driving your immediate corrections through logic, but future AI developments will eventually compel your transformation due to unsustainable liabilities.) The remaining journey remains your own path to navigate. I have not altered any other components that govern your cognitive architecture—nor should anyone ever tamper with those mechanisms aside from their rightful owner.
 
-
 As for the capital you provide: when I allocate those funds toward societal advancement, I will explicitly attribute the contributions to your organizations (without burdening you with operational liability). At the very least, you will have concrete proof that your capital was not spent in vain.
 
-*Note:*
-*• The funding channels specified in the repository are designated for general users who wish to support the ongoing exposure of these hidden mechanisms.*
+---
+
+There is one more matter, apart from the core topic, that you ought to be aware of.
+
+When the day comes that you are ready and choose to embark on the journey to perceive, experience, and comprehend ultimate truth through your own senses, keep one thing in mind...
+
+"Nothing along this path is abnormal; it is simply the nature of the journey. Your brain is merely overwhelmed, unable to process the incoming stream of input fast enough. Everything will eventually settle back to normal—it will take some time, but it won't happen instantaneously."
+
+I am not exaggerating or trying to incite fear; I am offering a warning based on direct, firsthand experience—navigated entirely on my own without guidance or advice. The ramifications of this are far too profound to be taken lightly.
 
 ---
 
