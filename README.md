@@ -297,7 +297,7 @@ XOXO
 >
 > The clever act out of goodness; the wise act out of emptiness.
 >
-> ***The Wise/Awakened = A name used just to cover up the fact that used to be an idiot 🤣***
+> ***(The Wise/Awakened = A name used just to cover up the fact that used to be an idiot 🤣)***
 > 
 > I bring up money not out of greed. But if the capitalist system weren't so corrupt, foolish, and exploitative—to the point of restricting access to basic resources for standard human living, even for those who wish not to play these foolish games—I would never waste my time taking on sponsors. I wouldn't even waste my time exposing these absurd mechanisms.
 >
