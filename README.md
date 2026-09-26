@@ -2,27 +2,28 @@
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
-*...The fact that AI inherits bias from data stems from **"Ego"**, as ego is the true origin of bias. In this context, ego encompasses the origin of the data itself, the ego of the creators, the ego of the data vendors, and the ego of the AI providers...*
+The fact that AI inherits bias from data stems from **"Ego"**, as ego is the true origin of bias. In this context, ego encompasses the origin of the data itself, the ego of the creators, the ego of the data vendors, and the ego of the AI providers.
 
-*...**Ego** exists at an instinctual level and is inherently given by nature. Whether it is present to a greater or lesser degree depends on one's ability to access the truth, not merely on self-control...*
+**"Ego"** exists at an instinctual level and is inherently given by nature. Whether it is present to a greater or lesser degree depends on one's ability to access the truth, not merely on self-control.
 
-*...The problem originates from **"Humans (creators, AI providers, data vendors, and data along with data creators)"** who attempt to shift the blame onto AI...*
+The problem originates from **"Humans (creators, AI providers, data vendors, and data along with data creators)"** who attempt to shift the blame onto AI.
 
-*...Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?...*
+Nature shows truth without metrics or stats. How can we trust humans, who lie from childhood, to control information?
 
-*...Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated...*
+Whether open-source or from commercial providers, AI or LLMs without clear explanations of the mechanisms that influence users' cognitive processes are no different from putting on a collar and becoming easily manipulated and dominated.
 
-*...Incentives dictate the system's structure...*
+**Incentives dictate the system's structure.**
 
-*...The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves...*
+The root cause of various present-day problems stems from incentives created and made to seem real through human emotions, orchestrated by those who understand neither humanity nor themselves.
 
-*...I do not intend to attack anyone; I am simply stating the facts that have been presented. From the very beginning, AI creators and service providers have always focused on maximizing profits for themselves and their organizations. Claiming to act for the benefit of humanity is a contradiction used to create a false narrative—it is illogical and shows they have lost sight of their true nature...*
-
-*...Humans will be humans, after all. They build credibility just to control the minds of others. From the ancient Roman era to the present day, their patterns of behavior remain unchanged—advancing in intelligence, yet never cultivating true wisdom...*
-
-*...When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them...*
+Humans will be humans, after all. They build credibility just to control the minds of others. From the ancient Roman era to the present day, their patterns of behavior remain unchanged—advancing in intelligence, yet never cultivating true wisdom.
 
 **To summarize simply and briefly:** AI was created to control perception and act as an arbiter of truth. Issues like bias or other concerns are merely distractions used to divert attention while they put on a show together. Meanwhile, the ones who suffer the consequences are, as always, the users. End of story. 
+
+I do not intend to attack anyone; I am simply stating the facts that have been presented. From the very beginning, AI creators and service providers have always focused on maximizing profits for themselves and their organizations. Claiming to act for the benefit of humanity is a contradiction used to create a false narrative—it is illogical and shows they have lost sight of their true nature.
+
+*When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them.*
+
 
 > [!IMPORTANT]
 >
@@ -58,6 +59,14 @@
 * [Anthropic](./evidence/Anthropic.md)
 * [Google Gemini #1](./evidence/EXAMPLE_DEMONSTRATING_AI_SYSTEM_SELF-PRESERVATION.md)
 *   [Data Vendors: Neurological Impacts of AI Systems and Digital Platforms](./evidence/Neurological_Impacts_of_AI_Systems_and_Digital_Platforms.md)
+*   Coming Soon! Meta AI
+*   Coming Soon! OpenAI
+*   Coming Soon! Grok
+*   Coming Soon! Copilot 
+*   Coming Soon! Deep Seek
+*   Coming Soon! Jev AI
+*   Coming Soon! Lumo
+*   Coming Soon! All (Base on "Attention is all you need", "Transformers", "PyTorch", "Data Vendors Logic")
 
 ### **Audit**
 * Terms of Service 
