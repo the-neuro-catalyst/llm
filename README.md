@@ -46,6 +46,9 @@ I do not intend to attack anyone; I am simply stating the facts that have been p
 > * [Information about "Coming Soon!"](#funding)
 
 ### **Core Documentation**
+* [Overview](#overview)
+* [The 8 Core Principles Framework](#the-8-core-principles-framework)
+* [History](#history)
 *   [The Truth About AI/LLMs](THE_TRUTH_ABOUT_AI_LLM.md)
 *   [How Big Tech and the State (Lawmakers and Enablers) Use LLMs / AI to Control Users](ai-llm-cognitive-domination.md)
 *   [GLOBAL PUBLIC AI FATALITIES INDEX](./GLOBAL_PUBLIC_AI_FATALITIES_INDEX.md)
@@ -201,7 +204,9 @@ Therefore, these standards being compared cannot protect or safeguard against ev
 
 ---
 
-## Comparison of Historical and Current Patterns Between Big Tech (Present) and Big Tobacco (Past)
+## History
+
+Comparison of Historical and Current Patterns Between Big Tech (Present) and Big Tobacco (Past)
 
 | Strategy / Behavior | Big Tobacco (Past) | AI Industry / Big Tech (Present) |
 | :--- | :--- | :--- |
