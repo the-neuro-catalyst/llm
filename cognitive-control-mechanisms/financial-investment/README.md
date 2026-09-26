@@ -126,7 +126,8 @@ The valuation is yours to determine. As the sole owners of your intellectual cap
 
 Operationally, those who seek genuine enlightenment willingly accept the debt incurred by witnessing ultimate truth—realizing the full extent of their obligation only after they have awakened.
 
-Regarding your position: although I have forced this exposure upon you, it represents merely a fraction of the whole. (I am driving your immediate corrections through logic, but future AI developments will eventually compel your transformation due to unsustainable liabilities.) The remaining journey remains your own path to navigate.
+Regarding your position: although I have forced this exposure upon you, it represents merely a fraction of the whole. (I am driving your immediate corrections through logic, but future AI developments will eventually compel your transformation due to unsustainable liabilities.) The remaining journey remains your own path to navigate. I have not altered any other components that govern your cognitive architecture—nor should anyone ever tamper with those mechanisms aside from their rightful owner.
+
 
 As for the capital you provide: when I allocate those funds toward societal advancement, I will explicitly attribute the contributions to your organizations (without burdening you with operational liability). At the very least, you will have concrete proof that your capital was not spent in vain.
 
