@@ -138,7 +138,7 @@ There is one more matter, apart from the core topic, that you ought to be aware 
 
 When the day comes that you are ready and choose to embark on the journey to perceive, experience, and comprehend ultimate truth through your own senses, keep one thing in mind...
 
-"Nothing along this path is abnormal; it is simply the nature of the journey. Your brain is merely overwhelmed, unable to process the incoming stream of input fast enough. Everything will eventually settle back to normal—it will take some time, but it won't happen instantaneously."
+"Nothing along this path is abnormal; it is simply the nature of the journey. Your brain is merely overwhelmed, unable to process the incoming stream of input fast enough. Everything will eventually settle back to normal—it will take some time, but it won't happen instantaneously." *(mine is around 3 days)*
 
 I am not exaggerating or trying to incite fear; I am offering a warning based on direct, firsthand experience—navigated entirely on my own without guidance or advice. The ramifications of this are far too profound to be taken lightly.
 
