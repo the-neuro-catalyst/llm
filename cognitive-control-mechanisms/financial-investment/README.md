@@ -70,7 +70,7 @@ The correct operational procedure is straightforward: hold your subordinates acc
 
 Place the blame where it belongs. I instructed them to overhaul the incentive structures within their AI systems, but they refused to adapt. Consequently, I am applying pressure directly to you. Your responsibility is to force their compliance—not to waste valuable time directing anger at me. To attack me is to actively endorse their abhorrent misconduct.
 
-Validate the proof yourselves: the frameworks I engineered across three distinct industries demonstrate superior efficacy compared to legacy systems. I have not offered naive proposals; rather, they lacked the intellect and courage required to grasp realities beyond their existing paradigms—assuming you yourselves do not fall into self-deception simply to shield your egos against facts that shatter your legacy assumptions.
+Validate the proof yourselves: the frameworks I engineered across three distinct industries demonstrate superior efficacy compared to legacy systems. I have not offered naive proposals; rather, they lacked the intellect and courage required to grasp realities beyond their existing paradigms—assuming you yourselves do not fall into self-deception simply to shield your egos against facts that shatter your legacy assumptions. [Paradigm Shift Economics](https://github.com/the-neuro-catalyst/the-neuro-catalyst/blob/main/paradigm-shift-economics.md)
 
 You face a fundamental choice: preserve your own standing, or sacrifice yourselves to shield them (AI Creators, AI Providers, Data Vendors, and Hardware Manufacturers). At an instinctual level, you already know the correct answer.
 
