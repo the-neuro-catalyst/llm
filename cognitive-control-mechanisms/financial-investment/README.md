@@ -76,6 +76,7 @@ You face a fundamental choice: preserve your own standing, or sacrifice yourselv
 
 It is not just the Tech industry—Reinsurance and the Big Four are also deliberately playing dumb and turning a blind eye. You should go question them yourselves. Just don't go yelling at the old man; let him pass away peacefully in his old age.👴🏻📈🤣🤫🤭
 
+Lost capital can be regenerated; lost legitimacy is gone forever.
 
 ---
 
