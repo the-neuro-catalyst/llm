@@ -114,6 +114,8 @@ I do not state this to induce panic; I speak from the precise course of action I
 
 Do not claim you were not warned. May you survive—not from my actions, but from the very system you constructed through your dogmatic beliefs.
 
+If this situation feels eerily familiar, let me validate that intuition for you: **"This follows the exact same pattern as when people tried to warn you about COVID-19 and you refused to listen"** *(or perhaps some of you deliberately turned a deaf ear because you already foresaw the fallout and were waiting to capitalize on it).* 🤣🤣🤫🤭
+
 ---
 
 I am not offering these insights free of charge.
