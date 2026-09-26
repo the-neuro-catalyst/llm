@@ -171,6 +171,11 @@ Therefore, these standards being compared cannot protect or safeguard against ev
 | **7. Implicit Memory** | Habits and automatic responses formed through repetition (Basal Ganglia, Cerebellum) | ❌ **None**: The standard makes no mention of habit formation by AI | ❌ **None**: The law does not cover habit-formation mechanisms | ❌ **None**: The framework does not address impacts on habits |
 | **8. Autonomic Processing** | Fight/Flight/Freeze responses (Hypothalamus, Brainstem, Amygdala) occurring prior to conscious thought | ❌ **None**: The standard makes no mention of triggering emergency response systems | ❌ **None**: The law does not cover autonomic nervous system stimulation | ❌ **None**: The framework does not address impacts on emergency response systems |
 
+> [!NOTE]
+>
+> * NGOs looking to advocate for and drive policies to protect human welfare—across all areas, not limited to AI, with a focus on operating within the SEA region—without having to worry about accusations of interfering with state power or government authority: please stay tuned for further details coming soon.
+> * I support and assist with operations that are "beneficial to humanity and the entire system," but this strictly excludes political matters under any circumstances.
+
 ---
 
 ## Comparison of Historical and Current Patterns Between Big Tech (Present) and Big Tobacco (Past)
