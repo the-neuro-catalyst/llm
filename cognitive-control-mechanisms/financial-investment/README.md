@@ -74,7 +74,8 @@ Validate the proof yourselves: the frameworks I engineered across three distinct
 
 You face a fundamental choice: preserve your own standing, or sacrifice yourselves to shield them (AI Creators, AI Providers, Data Vendors, and Hardware Manufacturers). At an instinctual level, you already know the correct answer.
 
-Lost capital can be regenerated; lost legitimacy is gone forever.
+It is not just the Tech industry—Reinsurance and the Big Four are also deliberately playing dumb and turning a blind eye. You should go question them yourselves. Just don't go yelling at the old man; let him pass away peacefully in his old age.👴🏻📈🤣🤫🤭
+
 
 ---
 
