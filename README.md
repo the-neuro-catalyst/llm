@@ -104,7 +104,29 @@ Transform into songs, as it offers a deeper and easier understanding than regula
 *   [Unnamed Anomalies](./cognitive-control-mechanisms/unnamed-anomalies.md)
 *   [Observer vs Actor](./cognitive-control-mechanisms/observer-vs-actor.md)
 
-### Soon! Cognitive Control Mechanisms - Medium Raw Version (Medium Rare Steak)
+### Cognitive Control Mechanisms - Financial / Investment
+
+• Coming Soon!
+
+---
+
+> [!NOTE]
+> 
+> **Financial / Investment Organization:**
+>
+> To Address Any Assumption That I Am Merely Making Empty Threats
+>
+> The foundational equation of surface-level capitalist economics, often falsely claimed to be a natural law:
+>
+> $$\text{Demand} + \text{Supply} = \text{Equilibrium}$$
+>
+> The reality:
+>
+> $$\text{Attention(Demand)} + \text{Supply} = \text{Equilibrium}$$
+>
+> This is neither an accident nor a misunderstanding—crucial variables were intentionally concealed.
+>
+> **Full Content: [Read more](./cognitive-control-mechanisms/financial-investment/README.md)**
 
 ### **Papers**
 * [The Self-Defeating Dynamic currently faced by Big Tech and the state](./papers/The-Self-Defeating-Dynamic-of-Big-Tech.md)
