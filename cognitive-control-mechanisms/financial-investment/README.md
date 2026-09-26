@@ -28,7 +28,7 @@ Anyone can construct an equation. Yet, crafting one that delivers absolute preci
 
 ---
 
-A fourteen-day window may be insufficient for you to calculate total risk, but it is more than enough time to take corrective action. You are granted this opportunity for redemption not because I possess the power to ruin you, but because you deserve the chance to transcend your own fear on your own terms.
+A fourteen-day (will let you know when to start) take ay be insufficient for you to calculate total risk, but it is more than enough time to take corrective action. You are granted this opportunity for redemption not because I possess the power to ruin you, but because you deserve the chance to transcend your own fear on your own terms.
 
 > "When you truly and deeply understand your own fear, you will use that understanding to liberate others rather than to imprison them."
 
