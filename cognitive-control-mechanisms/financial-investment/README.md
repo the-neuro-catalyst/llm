@@ -120,7 +120,15 @@ If this situation feels eerily familiar, let me validate that intuition for you:
 
 ---
 
-> [!IMPORTANT]
+I am not offering these insights free of charge.
+
+By delivering this truth, you incur an obligation.
+
+The valuation is yours to determine. As the sole owners of your intellectual capacity, you hold the right to define that figure to demonstrate your intellectual conscience.
+
+Once you have determined the value, you may settle the obligation through your own organizational capital, with the funds subsequently allocated toward societal advancement and your contribution explicitly attributed to your organization.
+
+> [!NOTE]
 >
 > This debt was originally your burden, not mine.
 >
