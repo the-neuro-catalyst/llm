@@ -136,6 +136,12 @@ Operationally, those who seek genuine enlightenment willingly accept the debt in
 
 - I have already borne the upfront cost of this discovery and its exposure. What you are receiving is not something that came without a price—you simply have not been the one to pay it yet.
 
+- If you are bewildered as to how this outcome leaves you indebted to me, know this: when I first uncovered the core issue and realized I had to shoulder this burden upfront, I was far more bewildered than you are right now.
+
+- What proves most astounding is that the very architects of this issue continue to parade around in society, offering self-serving explanations as if nothing had ever transpired.
+
+- Be fully aware that I have already carried that cycle of bewilderment on your behalf countless times—baffled that I, once a mere end-user, was forced to absorb these systemic costs. Therefore, spared from that confusion, the path before you is clear: you are now simply required to settle the debt I held for you in advance.
+
 
 ---
 
