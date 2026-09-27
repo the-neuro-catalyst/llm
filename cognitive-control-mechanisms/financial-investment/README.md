@@ -132,16 +132,23 @@ Operationally, those who seek genuine enlightenment willingly accept the debt in
 
 **As for the capital you provide:** when I allocate those funds toward societal advancement, I will explicitly attribute the contributions to your organizations (without burdening you with operational liability). At the very least, you will have concrete proof that your capital was not spent in vain.
 
-**Elaboration:**
-
-- I have already borne the upfront cost of this discovery and its exposure. What you are receiving is not something that came without a price—you simply have not been the one to pay it yet.
-
-- If you are bewildered as to how this outcome leaves you indebted to me, know this: when I first uncovered the core issue and realized I had to shoulder this burden upfront, I was far more bewildered than you are right now.
-
-- What proves most astounding is that the very architects of this issue continue to parade around in society, offering self-serving explanations as if nothing had ever transpired.
-
-- Be fully aware that I have already carried that cycle of bewilderment on your behalf countless times—baffled that I, once a mere end-user, was forced to absorb these systemic costs. Therefore, spared from that confusion, the path before you is clear: you are now simply required to settle the debt I held for you in advance.
-
+> [!NOTE]
+>
+> This debt was originally your burden, not mine.
+>
+> I have not set a specific monetary figure, because those who best understand the true operational cost of your system are you yourselves.
+>
+> It is up to you to evaluate the value of the burden I have carried on your behalf—the time, the research, the cognitive processing, the exposure, and the immense cost you would have incurred had you been forced to undertake all of this yourselves.
+>
+> The amount you assess is the amount with which you may discharge this liability.
+>
+> The funds will be directed toward societal development, and I will attribute the contributions to your organization as the sponsor, without burdening you with operational execution.
+>
+> What remains is for you to rectify the critical vulnerabilities I have exposed.
+>
+> You determine the figure yourselves.
+> You choose the method of settlement yourselves.
+> And you decide whether to settle while corrective action is still possible, or after there is nothing left to conceal.
 
 ---
 
