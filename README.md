@@ -318,7 +318,7 @@ XOXO
 >
 > Accustomed to the habit of taking from natural resources for free without ever giving back?
 >
-> My revealing this isn't because they are evil or you are good. The fact is, you and they are no different—because everyone chooses to turn a blind eye to the truth. These actions are driven by ego mechanisms aimed at conserving processing power, as you avoid self-transformation. This happens because your subconscious has learned that survival is possible without change, and you will never change until you reach a point where the damage is no longer tolerable. That is the fundamental truth of human nature.
+> My revealing this isn't because they are evil or you are good. The fact is, you and they are no different—because everyone chooses to turn a blind eye to the truth. These actions are driven by ego mechanisms aimed at conserving processing power, as you avoid self-transformation. This happens because your subconscious has learned that survival is possible without change, and you will never change until you reach a point where the damage is no longer tolerable. That is the fundamental truth of human nature. [Self-Deception Mechanisms Sustaining Wrongful Acts](SELF_DECEPTION_MECHANISMS_SUSTAINING_WRONGFUL_ACTS.md)
 >
 > The true intention behind everything I do is simply to pass knowledge on to children, so they aren't trapped intellectually by ignorance masquerading as intelligence. I "give to those who deserve it." The deeper layer of this intention isn't out of love for children or humanity, but because I know that when humans possess true wisdom, they won't cause self-inflicted harm that impacts other ecosystems.
 >
