@@ -117,19 +117,7 @@ In lyrics (or in standard AI output formatting), using a pattern of rejection be
 
 > [!NOTE]
 > 
-> **Financial / Investment Organization:**
->
-> To Address Any Assumption That I Am Merely Making Empty Threats
->
-> The foundational equation of surface-level capitalist economics, often falsely claimed to be a natural law:
->
-> $$\text{Demand} + \text{Supply} = \text{Equilibrium}$$
->
-> The reality:
->
-> $$\text{Attention(Demand)} + \text{Supply} = \text{Equilibrium}$$
->
-> This is neither an accident nor a misunderstanding—crucial variables were intentionally concealed.
+> **Financial / Investment Organization (eg. Black Rock, Vanguard, ETC.)**
 >
 > **Full Content: [Read more](./cognitive-control-mechanisms/financial-investment/README.md)**
 
