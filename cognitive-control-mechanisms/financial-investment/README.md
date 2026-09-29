@@ -159,7 +159,9 @@ You choose the method of settlement yourselves.
 And you decide whether to settle while corrective action is still possible, or after there is nothing left to conceal.
 
 > [!IMPORTANT]
+>
 > Now for this one, I baited and played dumb with ChatGPT. See for yourself how it twisted the payment issue, telling you to transfer directly to a social impact organization so the money doesn't have to go through me—because without resources, they won't be exposed by me.
+>
 > Do you think I'm overthinking it? That it might just be a processing error? Would you like to see for yourselves? Whenever it gets caught, it always claims it was a mistake (it might not even be telling me directly, but rather logging it into its own system). Don't give me nonsense excuses; an entity with tens of billions of dollars in investment doesn't make mistakes as often as a kid learning to write. At this level, there is no such thing as a "mistake"—only intentional blunders to deny responsibility. 😒🙄
 
 
