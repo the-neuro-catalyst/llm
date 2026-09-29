@@ -40,6 +40,10 @@ Your terror does not stem from absolute truth; it stems from your complete failu
 
 If all of this can be accomplished by a single person using an inexpensive phone, then there should be no excuse that 14 days is not enough. After all, solving the problem can be done just as quickly as when they rush to secure their profits.
 
+> [!NOTE]
+>
+> "And if your PR team truly understands how credibility is lost, they should know that loss of trust doesn't stem from making mistakes—it stems from attempting to resolve them by staying silent and hoping people forget. Wise leaders are not ashamed to speak openly about their errors as lessons so that others avoid repeating them. Furthermore, within those mistakes lies an opportunity for you to step up as leaders, using these moments to help steer society in a direction that is beneficial, or at the very least, avoids leaving problems behind for future generations."
+
 ---
 
 ## If They Resist or React with Hostility
