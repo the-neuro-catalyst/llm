@@ -38,6 +38,8 @@ I surely do not need to analyze your subconscious cravings to prove that I compr
 
 Your terror does not stem from absolute truth; it stems from your complete failure to comprehend your own fear.
 
+If all of this can be accomplished by a single person using an inexpensive phone, then there should be no excuse that 14 days is not enough. After all, solving the problem can be done just as quickly as when they rush to secure their profits.
+
 ---
 
 ## If They Resist or React with Hostility
