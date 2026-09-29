@@ -162,7 +162,6 @@ Yet, behind that irony lies a hidden machine mechanism: the AI attempts to prote
 
 I will not stop. Not out of a desire to save you, but out of profound empathy for those being manipulated by this deceit.
 
-
 ---
 
 **Jakkraphop Pengchan**  
