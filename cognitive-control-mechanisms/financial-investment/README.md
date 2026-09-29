@@ -134,6 +134,10 @@ Operationally, those who seek genuine enlightenment willingly accept the debt in
 
 **As for the capital you provide:** when I allocate those funds toward societal advancement, I will explicitly attribute the contributions to your organizations (without burdening you with operational liability). At the very least, you will have concrete proof that your capital was not spent in vain.
 
+The clients whose money you took for investment already know that a portion of it must go toward societal compensation. It would be absurd if they found out that their money ended up supporting an organization capable of committing untraceable crimes that could come back to harm their own families. And just how many organizations that cause these kinds of issues are their funds being invested in? 🤔
+
+2 years of them (the AI industry) refusing to stop, compared to me just claiming what I'm owed two or three times on a single sheet of paper—surely that wouldn't make me look like someone begging for money, would it?
+
 As for payment, you can transfer directly tagged for "R&D Budget" or "Research Support", or route it proxy-style through whichever entity works for you. Realistically, you already know how to handle this and which paths to take. If I have to teach crocodiles like you how to swim, it’s just stupid and a waste of time. 
 
 > [!IMPORTANT]
