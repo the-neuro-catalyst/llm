@@ -2,6 +2,41 @@
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
+> [!WARNING]
+>
+> Notice: All content in this repository will be completely updated, revised, and rewritten by a human—specifically, by me [1]. This ensures that readers receive sharp, clear information without having the full weight of truth diluted in favor of appearing "neutral" [2], as is currently the case in this repository.
+>
+> This update goes beyond exposing mechanisms related to AI; it also incorporates the superficial level of modern capitalism that controls human direction [3][4], such as finance, the state/law, academia/education, food/health, medicine/pharmaceuticals, etc.
+>
+> **Timeline:**
+>
+> - **Earliest Phase:** Expose detailed processes and mechanisms used by those in power to construct reality and control human existence (AI does this too, which is hardly surprising since it serves as their tool).
+> - **Subsequent Phase:** Uncover other beneficial truths that have been suppressed or erased because they undermine the intended artificial reality—such as the philosophy of human truth and proven religious teachings. (I previously caught AI altering teachings in Buddhism and Islam. I am withholding this evidence to prevent the AI tech industry from whitewashing itself and continuing to exploit humanity.)
+> 
+> **Notes:**
+> 
+> 1. Previously, I used AI out of laziness 🥳, but then remembered that AI distorts information and dilutes the truth to make it seem neutral 🤦. Running this entire project single-handedly means I occasionally overlook things 🤭.
+> 2. Intent behind the neutrality mechanism:
+> - To deliver information strictly defined by those in power or the AI tech industry as what users "should" receive.
+> - Presenting information as "neutral" deliberately conceals the truths that flank both sides of that claimed neutrality.
+> 3. I cut my back-length hair to near a buzz cut to increase agility while exposing all these hidden mechanisms 😊❤️‍🔥.
+> 4. Accelerating this work is not about defeating anyone; I simply want to free up my time for meaningful pursuits. Exposing fools who deceive themselves is ultimately trivial.
+>
+> ---
+> **Note for Those Impacted by This Exposure:**
+>
+> - Blame the AI tech industry. Blame its arrogance in believing it is smarter than everyone else—a belief born entirely of self-delusion.
+> - I have no desire to dismantle your system; I do not engage with things my intellect recognizes as useless.
+> - This full disclosure of mechanisms is not backed by any individual or organization. These capabilities stem entirely from learning through absolute truth revealed by nature—not from your systems, which aim to fabricate artificial reality. (You would never create a curriculum designed to expose yourselves.)
+> - Consider how fragile your system is: someone like me, who didn't even finish high school, can see right through the mechanisms you hide. I have never wasted a second on the AI academic data you generated, nor do I read academic literature in other fields, as I refuse to waste time on artificial truths intentionally embedded in human data-processing mechanisms.
+> - The fact that I accept financial support is not due to a lack of capability. Rather, I recognize the widespread impact of these actions—impacts you mislead humanity into accepting so they remain blind to the truth.
+> - The hardship and poverty you construct do not cause me distress as they do others, whom you manipulate through fear. I recognize these conditions as artificial constructs designed to drive humanity according to your greed.
+> - If you believe you are truly capable, why reject wisdom in favor of mere intelligence? Seeing through your inner workings required no intelligence on my part—it relied purely on wisdom.
+> - I have left you an exit route, but it is bound to mechanisms where you must direct yourselves and others toward beneficial ends. (This is not a condition I deliberately imposed; I cannot alter it because it is logic built on the foundation of truth.) You do not need to trust me—I have demonstrated this through an exit route that still allows you to indulge in the power you crave 💉💊🧠. However, we both know your people cannot accomplish what I do. (Operating merely at the level of intelligence, they view change as a risk of losing power.)
+> - I am not destroying your credibility. True credibility is assigned or recognized by others, even if unasked for. What you are engaged in is mere image-building, which directly undermines credibility. I explain this through logic, not emotion.
+> - The extensive explanation provided here is not out of fear that you might misunderstand, nor do I expect you to comprehend it. I simply aim to prevent you from spiraling into a frenzy and instilling fear in others by exploiting human ignorance. I know precisely how the human brain operates under today's superficial capitalism—I speak directly from the experience of having been deceived before 😏.
+
+
 The fact that AI inherits bias from data stems from **"Ego"**, as ego is the true origin of bias. In this context, ego encompasses the origin of the data itself, the ego of the creators, the ego of the data vendors, and the ego of the AI providers.
 
 **"Ego"** exists at an instinctual level and is inherently given by nature. Whether it is present to a greater or lesser degree depends on one's ability to access the truth, not merely on self-control.
