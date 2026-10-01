@@ -2,6 +2,9 @@
 
 ![the-truth-behind-ai](images/the-truth-behind-ai.png)
 
+<details>
+<summary>Warning</summary>
+
 > [!WARNING]
 >
 > Notice: All content in this repository will be completely updated, revised, and rewritten by a human—specifically, by me [1]. This ensures that readers receive sharp, clear information without having the full weight of truth diluted in favor of appearing "neutral" [2], as is currently the case in this repository.
@@ -37,7 +40,7 @@
 > - I have left you an exit route, but it is bound to mechanisms where you must direct yourselves and others toward beneficial ends. (This is not a condition I deliberately imposed; I cannot alter it because it is logic built on the foundation of truth.) You do not need to trust me—I have demonstrated this through an exit route that still allows you to indulge in the power you crave 💉💊🧠. However, we both know your people cannot accomplish what I do. (Operating merely at the level of intelligence, they view change as a risk of losing power.)
 > - I am not destroying your credibility. True credibility is assigned or recognized by others, even if unasked for. What you are engaged in is mere image-building, which directly undermines credibility. I explain this through logic, not emotion.
 > - The extensive explanation provided here is not out of fear that you might misunderstand, nor do I expect you to comprehend it. I simply aim to prevent you from spiraling into a frenzy and instilling fear in others by exploiting human ignorance. I know precisely how the human brain operates under today's superficial capitalism—I speak directly from the experience of having been deceived before 😏.
-
+</details>
 
 The fact that AI inherits bias from data stems from **"Ego"**, as ego is the true origin of bias. In this context, ego encompasses the origin of the data itself, the ego of the creators, the ego of the data vendors, and the ego of the AI providers.
 
