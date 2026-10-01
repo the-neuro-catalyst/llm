@@ -2,9 +2,16 @@
 
 ---
 
+```md
+
 ## TABLE OF CONTENTS
 
-```md
+### Fundamentals
+
+##### Innate Human Components (Prior to Learning or Conditioning)
+
+* Unconditioned cognitive space for learning
+* Sensory perception
 
 ### Uncovering the mechanism
 
