@@ -6,7 +6,7 @@
 >
 > Notice: All content in this repository will be completely updated, revised, and rewritten by a human—specifically, by me [1]. This ensures that readers receive sharp, clear information without having the full weight of truth diluted in favor of appearing "neutral" [2], as is currently the case in this repository.
 >
-> This update goes beyond exposing mechanisms related to AI; it also incorporates the superficial level of modern capitalism that controls human direction [3][4], such as finance, the state/law, academia/education, food/health, medicine/pharmaceuticals, etc.
+> This update goes beyond exposing mechanisms related to AI; it also incorporates the superficial level of modern capitalism that controls human direction [3][4], such as finance, the state/law, academia/education, food/health, medicine/pharmaceuticals, etc.[5]
 >
 > **Timeline:**
 >
@@ -21,8 +21,10 @@
 > - Presenting information as "neutral" deliberately conceals the truths that flank both sides of that claimed neutrality.
 > 3. I cut my back-length hair to near a buzz cut to increase agility while exposing all these hidden mechanisms 😊❤️‍🔥.
 > 4. Accelerating this work is not about defeating anyone; I simply want to free up my time for meaningful pursuits. Exposing fools who deceive themselves is ultimately trivial.
+> 5. All underlying mechanisms are fully disclosed using plain language and everyday examples for ease of understanding (since academic jargon is often used intentionally to create artificial complexity). I will dissect this with a touch of gossip for flair and engagement 🤭—while remaining strictly grounded in fact.
 >
 > ---
+> 
 > **Note for Those Impacted by This Exposure:**
 >
 > - Blame the AI tech industry. Blame its arrogance in believing it is smarter than everyone else—a belief born entirely of self-delusion.
