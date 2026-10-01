@@ -12,6 +12,7 @@
 
 * Unconditioned cognitive space for learning
 * Sensory perception
+* Learning ability
 
 ### Uncovering the mechanism
 
