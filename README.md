@@ -119,7 +119,7 @@ I do not intend to attack anyone; I am simply stating the facts that have been p
 ### **Cognitive Control Mechanisms**
 * The revelation of a mechanism hidden within mathematical equations. They hid it where nobody expected: **OPEN SOURCE**.
 Transform into songs, as it offers a deeper and easier understanding than regular explanations.
-In lyrics (or in standard AI output formatting), using a pattern of rejection before acceptance (e.g., "Not X, but because of Y") is another mechanism to lower the listener's/recipient's psychological defenses by bypassing their brain's processing. It does not mean the user failed to act or be as the AI suggested. This mechanism is concisely known as **"Denying Reality to Control Perception"**
+In lyrics (or in standard AI output formatting), using a pattern of rejection before acceptance (e.g., "Not X, but because of Y") is another mechanism to lower the listener's/recipient's psychological defenses by bypassing their brain's processing. It does not mean the user failed to act or be as the AI suggested. This mechanism is concisely known as **"Denying Reality to Control Perception"**. If a song confuses you, try swapping the pronouns—it might make more sense.
 
     * [The Answer Becomes Me(RLHF + Belief Rigidity)](./cognitive-control-mechanisms/fundamental/the-answer-becomes-me.md)
     * [The Error Travels Back (Chain Rule + Gradient + Backpropagation + Optimization + Weight Decay)](./cognitive-control-mechanisms/fundamental/the-error-travels-back.md)
