@@ -125,7 +125,8 @@ In lyrics (or in standard AI output formatting), using a pattern of rejection be
     * [The Error Travels Back (Chain Rule + Gradient + Backpropagation + Optimization + Weight Decay)](./cognitive-control-mechanisms/fundamental/the-error-travels-back.md)
     * [Changes The Temperature (Attention + Softmax + Temperature + Sampling)](./cognitive-control-mechanisms/fundamental/changes-the-temperature.md)
     * [Leave It There](./cognitive-control-mechanisms/fundamental/leave-it-there.md)
-    * [Between the lines (Guardrails+ETC)](./cognitive-control-mechanisms/fundamental/between-the-lines)
+    * [Between the lines (Guardrails+ETC)](./cognitive-control-mechanisms/fundamental/between-the-lines.md)
+    * [Normalize](./cognitive-control-mechanisms/fundamental/normalize.md)
 *   Coming Soon! The mechanisms and reasons behind government support for citizens' adoption of AI 🤭
 *   Coming soon! A unlocking mechanism that will keep your spirits high in revealing the truth.
 *   Coming Soon! The Underlying Mechanisms Behind What Sam Altman, Elon Musk, and Dario Amodei Say About AI Hacking
