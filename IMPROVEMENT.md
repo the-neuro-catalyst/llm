@@ -24,54 +24,61 @@
 
 #### **Cognitive Control Mechanisms:**
 
+* **MORALITY / ETHICS:**
+
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ... 
+
 * **TECH / AI:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
 
 * **STATE & LAW:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
 
 * **MEDIA & PRESS:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
   
 * **FINANCE & INVESTMENT & ECONIMICS:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
   
 * **ACADEMIC & EDICATION:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
 
 * **MEDICINE & PHARMACY:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
   
 * **FOOD & HEALTH CARE:**
 
-  * Mechanisms A
-  * Mechanisms B
-  * Mechanisms C
-  * Mechanisms ...
+  * Mechanism A
+  * Mechanism B
+  * Mechanism C
+  * Mechanism ...
   
 ---
 ```
