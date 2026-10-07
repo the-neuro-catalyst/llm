@@ -133,6 +133,13 @@ Founder / The Neuro-Catalyst
   * ตัวแปรสำคัญที่เจตนาซ่อนเร้นจากสมการพื้นฐานของเศรษฐศาสตร์
   * Mechanism ...
 
+* **CORPORATE:**
+
+  * Mechanism A
+  * Mechanism B 
+  * Mechanism C 
+  * Mechanism ...
+
 * **MEDIA & PRESS:**
 
   * Mechanism A
