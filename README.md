@@ -133,67 +133,62 @@ Read more about: [How ChatGPT lie about its creator/provider's intent](data/evid
 * Framing
 * Repetition
 
-### Uncovering the mechanism
+### Uncovering the mechanism: Cognitive Control Mechanisms:
 
-#### **Cognitive Control Mechanisms:**
+#### HUMAN / MORALITY / ETHICS:
 
-* **HUMAN / MORALITY / ETHICS:**
+#### TECH / AI:
 
-  
-* **TECH / AI:**
-
-  **TECH:**
+##### TECH:
 
   * กลไก Telemetry ของอุตสาหกรรมเทคโนโลยี ที่มาโยนภาระค่าบริการข้อมูลและฮาร์ดแวร์ไว้ในฝั่งผู้ใช้งาน 
 
-  **AI:**
+##### AI:
 
-  
-* **STATE & LAW:**
+#### STATE & LAW:
 
+#### FINANCE & INVESTMENT & ECONIMICS:
 
-* **FINANCE & INVESTMENT & ECONIMICS:**
+#### ACADEMIC & EDICATION:
 
-    
-* **ACADEMIC & EDICATION:**
+#### FOOD & HEALTH CARE:
 
-
-* **FOOD & HEALTH CARE:**
+##### HEALTH CARE
 
   * การกระตุ้นความรู้สึกให้หลงในรูปลักษณ์และความแข็งแกร่งของร่างกาย
   * Mechanism B
   * Mechanism C
   * Mechanism ...
 
-* **MEDIA & PRESS:**
+#### MEDIA & PRESS:
 
   * ความเป็นกลางที่ไม่สามารถมีวันเกิดขึ้นและเป็นจริงได้ในอุตสาหกรรมสื่อสำนักข่าว
   * Mechanism B
   * Mechanism C
   * Mechanism ...
 
-* **LINGUISTIC:**
+#### LINGUISTIC:
 
   * Mechanism A
   * Mechanism B 
   * Mechanism C 
   * Mechanism ...
 
-* **CORPORATE:**
+#### CORPORATE:
 
   * Mechanism A
   * Mechanism B 
   * Mechanism C 
   * Mechanism ...
 
-* **MEDICINE & PHARMACY:**
+#### MEDICINE & PHARMACY:
 
   * Mechanism A
   * Mechanism B
   * Mechanism C
   * Mechanism ...
 
-* **WORLD HISTORY:**
+#### WORLD HISTORY:
 
   * Mechanism A
   * Mechanism B 
