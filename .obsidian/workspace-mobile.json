@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -184,7 +184,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +200,9 @@
   },
   "active": "d9160081d3d0143a",
   "lastOpenFiles": [
-    "data/letters/letter-to-parents-guardians.md",
     "author/The-Origin.md",
-    "author",
-    "README.md"
+    "README.md",
+    "data/letters/letter-to-parents-guardians.md",
+    "author"
   ]
 }
