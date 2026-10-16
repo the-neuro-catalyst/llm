@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -200,8 +200,9 @@
   },
   "active": "d9160081d3d0143a",
   "lastOpenFiles": [
-    "author/The-Origin.md",
+    "data/paradigm-shift/Paradigm-Shift-of-Economics.md",
     "README.md",
+    "author/The-Origin.md",
     "data/letters/letter-to-parents-guardians.md",
     "author"
   ]
