@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "data/mechanisms/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "data/mechanisms/README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -198,17 +198,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9160081d3d0143a",
+  "active": "3163eed638553cb5",
   "lastOpenFiles": [
-    "data/author/The-Origin.md",
+    "data/mechanisms/academic-education/README.md",
+    "data/mechanisms/README.md",
     "README.md",
+    "data/letters/letter-to-parents-guardians.md",
+    "data/mechanisms/academic-education",
+    "data/mechanisms/food-health-care/README.md",
+    "data/mechanisms/state-law-power/README.md",
+    "data/mechanisms/food-health-care/Untitled",
+    "data/mechanisms/food-health-care",
+    "data/mechanisms/state-law-power",
+    "data/author/The-Origin.md",
     "data/mechanisms/tech-ai/ranking.md",
     "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai",
     "data/mechanisms",
     "data/author/Why-Do-I-Do-This.md",
     "data/paradigm-shift/Paradigm-Shift-of-Economics.md",
-    "data/letters/letter-to-parents-guardians.md",
     "data/author"
   ]
 }
