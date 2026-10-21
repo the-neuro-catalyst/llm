@@ -11,10 +11,14 @@
             "id": "b02a06cd2cd9f44d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "data/mechanisms/tech-ai/forensic-investigation-guidelines.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "forensic-investigation-guidelines"
             }
           }
         ]
@@ -183,11 +187,12 @@
   "active": "b02a06cd2cd9f44d",
   "lastOpenFiles": [
     "README.md",
+    "data/mechanisms/tech-ai/forensic-investigation-guidelines.md",
+    "data/mechanisms/README.md",
     "data/mechanisms/tech-ai/ai-usage.md",
     "data/mechanisms/tech-ai/ai-ranking.md",
     "data/mechanisms/finance-investment/README.md",
     "data/mechanisms/finance-investment",
-    "data/mechanisms/README.md",
     "data/mechanisms/human-morality/README.md",
     "data/mechanisms/human-morality",
     "data/mechanisms/academic-education/README.md",
