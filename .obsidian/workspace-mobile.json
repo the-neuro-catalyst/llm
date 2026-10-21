@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/tech-ai/forensic-investigation-guidelines.md",
+                "file": "data/mechanisms/tech-ai/ai-forensic-investigation-guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "forensic-investigation-guidelines"
+              "title": "ai-forensic-investigation-guidelines"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "active": "b02a06cd2cd9f44d",
   "lastOpenFiles": [
     "README.md",
-    "data/mechanisms/tech-ai/forensic-investigation-guidelines.md",
+    "data/mechanisms/tech-ai/ai-forensic-investigation-guidelines.md",
     "data/mechanisms/README.md",
     "data/mechanisms/tech-ai/ai-usage.md",
     "data/mechanisms/tech-ai/ai-ranking.md",
