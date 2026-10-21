@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/tech-ai/ai-usage.md",
+                "file": "data/mechanisms/tech-ai/ai-ranking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-usage"
+              "title": "ai-ranking"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "44f85d49f7ed7e96",
   "lastOpenFiles": [
-    "README.md",
     "data/mechanisms/tech-ai/ai-usage.md",
+    "README.md",
     "data/mechanisms/README.md",
     "data/mechanisms/human-morality/README.md",
     "data/mechanisms/human-morality",
@@ -200,7 +200,7 @@
     "data/mechanisms/food-health-care",
     "data/mechanisms/state-law-power",
     "data/author/The-Origin.md",
-    "data/mechanisms/tech-ai/ranking.md",
+    "data/mechanisms/tech-ai/ai-ranking.md",
     "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai",
     "data/mechanisms",
