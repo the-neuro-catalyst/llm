@@ -11,10 +11,14 @@
             "id": "44f85d49f7ed7e96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "data/mechanisms/tech-ai/ai-usage.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ai-usage"
             }
           }
         ]
@@ -182,8 +186,9 @@
   },
   "active": "44f85d49f7ed7e96",
   "lastOpenFiles": [
-    "data/mechanisms/README.md",
     "README.md",
+    "data/mechanisms/tech-ai/ai-usage.md",
+    "data/mechanisms/README.md",
     "data/mechanisms/human-morality/README.md",
     "data/mechanisms/human-morality",
     "data/mechanisms/academic-education/README.md",
