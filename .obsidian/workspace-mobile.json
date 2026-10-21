@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/README.md",
+                "file": "data/mechanisms/human-morality/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "data/mechanisms/README.md",
+            "file": "data/mechanisms/human-morality/README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -200,9 +200,11 @@
   },
   "active": "3163eed638553cb5",
   "lastOpenFiles": [
-    "data/mechanisms/academic-education/README.md",
-    "data/mechanisms/README.md",
     "README.md",
+    "data/mechanisms/human-morality/README.md",
+    "data/mechanisms/human-morality",
+    "data/mechanisms/README.md",
+    "data/mechanisms/academic-education/README.md",
     "data/letters/letter-to-parents-guardians.md",
     "data/mechanisms/academic-education",
     "data/mechanisms/food-health-care/README.md",
