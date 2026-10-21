@@ -11,14 +11,14 @@
             "id": "b02a06cd2cd9f44d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "data/mechanisms/human-morality/README.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b02a06cd2cd9f44d",
+  "active": "3163eed638553cb5",
   "lastOpenFiles": [
+    "data/paradigm-shift/Paradigm-Shift-of-Power.md",
+    "data/paradigm-shift/Paradigm-Shift-of-Corporate-Conscience.md",
     "README.md",
     "data/mechanisms/tech-ai/ai-forensic-investigation-guidelines.md",
     "data/mechanisms/README.md",
