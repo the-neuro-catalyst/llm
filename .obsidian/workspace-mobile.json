@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISCLAIMER.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISCLAIMER"
+              "title": "README"
             }
           },
           {
@@ -164,7 +164,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "DISCLAIMER.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -198,14 +198,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3163eed638553cb5",
+  "active": "21ca3c4685d09924",
   "lastOpenFiles": [
+    "data/mechanisms/tech-ai/standards/Human-Perception-Fundamental.md",
+    "data/mechanisms/tech-ai/standards",
+    "data/mechanisms/tech-ai/README.md",
+    "data/author/Why-Do-I-Do-This.md",
+    "README.md",
+    "data/author/Why-Dont-I-Feel-Any-Fear.md",
+    "DISCLAIMER.md",
     "data/evidence/images/screenshot",
     "data/evidence/images",
-    "README.md",
     "THINGS_TO_KNOW.md",
-    "DISCLAIMER.md",
-    "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai/ai-usage.md",
     "เครื่องมือ.md",
     "data/paradigm-shift/README.md",
@@ -231,10 +235,6 @@
     "data/mechanisms/food-health-care/Untitled",
     "data/mechanisms/food-health-care",
     "data/mechanisms/state-law-power",
-    "data/author/The-Origin.md",
-    "data/mechanisms/tech-ai",
-    "data/mechanisms",
-    "data/author/Why-Do-I-Do-This.md",
-    "data/paradigm-shift/Paradigm-Shift-of-Economics.md"
+    "data/author/The-Origin.md"
   ]
 }
