@@ -58,7 +58,7 @@
 >
 > **ผลลัพธ์จากการกระทำคือเครื่องมือระบุเจตนา** การกำหนดให้ต้องพิสูจน์ด้วยหลักฐานหรือการใช้งานวิจัยทางวิชาการเพื่อโต้แย้งคือเงื่อนไขที่สร้างขึ้นมาสำหรับใช้เอาตัวรอดจากการกระทำของตัวเอง
 
-_Read more about: [How ChatGPT lie about its creator/provider's intent](data/evidence/examples/how-chatgpt-lies-about-its-providers-intent.md)_
+_Read more about: [How ChatGPT lie about its creator/provider's intent](how-chatgpt-lies-about-its-providers-intent.md)_
 
 > [!IMPORTANT]
 >
