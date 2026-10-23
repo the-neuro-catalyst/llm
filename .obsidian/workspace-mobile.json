@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
+                "file": "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ClaudeAI-Mechanisms"
+              "title": "Expose-all-mechanisms-of-capitalism-in-2-minutes"
             }
           },
           {
@@ -200,8 +200,11 @@
   },
   "active": "21ca3c4685d09924",
   "lastOpenFiles": [
-    "data/mechanisms/tech-ai/mechanisms/ChatGPT-Mechanisms.md",
+    "data/mechanisms/capitalism/README.md",
+    "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
     "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
+    "data/mechanisms/capitalism",
+    "data/mechanisms/tech-ai/mechanisms/ChatGPT-Mechanisms.md",
     "data/mechanisms/tech-ai/mechanisms/README.md",
     "data/mechanisms/tech-ai/evidence/how-claude-ai-lies.md",
     "data/mechanisms/tech-ai/mechanisms",
@@ -228,13 +231,10 @@
     "data/paradigm-shift/README.md",
     "data/author/README.md",
     "data/letters/README.md",
-    "data/mechanisms/linguistic/README.md",
     "data/mechanisms/linguistic",
-    "data/paradigm-shift/Paradigm-Shift-of-Power.md",
     "data/mechanisms/finance-investment",
     "data/mechanisms/human-morality",
     "data/mechanisms/academic-education",
-    "data/mechanisms/food-health-care/Untitled",
-    "data/mechanisms/food-health-care"
+    "data/mechanisms/food-health-care/Untitled"
   ]
 }
