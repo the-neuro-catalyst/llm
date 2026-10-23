@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/author/DISCLAIMER.md",
-                "mode": "source",
+                "file": "data/mechanisms/finance-investment/README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISCLAIMER"
+              "title": "README"
             }
           },
           {
@@ -198,8 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbff8255a069bce1",
+  "active": "21ca3c4685d09924",
   "lastOpenFiles": [
+    "README.md",
+    "data/mechanisms/finance-investment/README.md",
+    "data/author/DISCLAIMER.md",
     "data/letters/letter-to-SPF.md",
     "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
     "data/mechanisms/capitalism/README.md",
@@ -212,7 +215,6 @@
     "data/mechanisms/tech-ai/evidence/how-chatgpt-lies-about-its-providers-intent.md",
     "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai/evidence/README.md",
-    "README.md",
     "data/mechanisms/tech-ai/ai-ranking.md",
     "data/mechanisms/tech-ai/tech-mechanisms.md",
     "data/author/FUNDING.md",
@@ -224,13 +226,11 @@
     "data/mechanisms/tech-ai/standards",
     "data/author/Why-Do-I-Do-This.md",
     "data/author/Why-Dont-I-Feel-Any-Fear.md",
-    "data/author/DISCLAIMER.md",
     "data/mechanisms/tech-ai/evidence/images/screenshot",
     "data/mechanisms/tech-ai/evidence/images",
     "data/mechanisms/tech-ai/ai-usage.md",
     "เครื่องมือ.md",
     "data/paradigm-shift/README.md",
-    "data/author/README.md",
     "data/mechanisms/linguistic",
     "data/mechanisms/finance-investment",
     "data/mechanisms/human-morality",
