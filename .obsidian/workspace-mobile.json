@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/academic-education/README.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,6 +186,7 @@
   },
   "active": "9f3f9aa6b2eb2066",
   "lastOpenFiles": [
+    "data/mechanisms/academic-education/README.md",
     "README.md",
     "data/author/docs/NOTICE_LOG.md",
     "data/mechanisms/corporate/README.md",
@@ -220,7 +221,6 @@
     "data/author/games/DDMMYYYY-START-END-INDUSTRY_NAME.md",
     "data/author/games/README.md",
     "data/author/docs",
-    "data/author/docs/FAQ.md",
-    "data/author/tools/Malaysia.md"
+    "data/author/docs/FAQ.md"
   ]
 }
