@@ -1,4 +1,4 @@
-## ช่องทางติดต่อครอบครัวของทหารผ่านศึกในอเมริกา
+## ช่องทางติดต่อสมาคมผู้ปกครอง
 
 - [Philanthropy](https://philanthropy.or)
 - [National PTA (National Parent Teacher Association)](https://pta.org)
@@ -16,7 +16,7 @@
 
 ---
 
-## ช่องทางติดต่อครอบครัวของทหารผ่านศึกในอเมริกา
+## ช่องทางติดต่อครอบครัวของทหารผ่านศึก
 
 * [Blue Star Mothers of America, Inc. (BSMA)](https://bluestarmothers.org)
 * [Gold Star Wives of America, Inc. (GSW)](https://goldstarwives.org)
@@ -39,7 +39,7 @@
 
 ---
 
-## ช่องทางติดต่อสมาคมผู้ถือหุ้นรายย่อยในอเมริกา
+## ช่องทางติดต่อสมาคมผู้ถือหุ้นรายย่อย
 
 * [National PTA (National Parent Teacher Association)](https://pta.org)
 * [National PTSA (Parent Teacher Student Association)](https://pta.orghome/run-your-pta/ptsa-resources)
@@ -53,3 +53,30 @@
 * [National Center for Families Learning (NCFL)](https://familieslearning.org)
 * [United Parents to Inspire & Educate (Oasis)](https://oasisnet.org)
 * [Parent-Teacher Home Visits (PTHV)](http://pthv.org)
+
+---
+
+## ช่องทางติดต่อสมาคมนักเรียน-นักศึกษา
+
+* [AARP (American Association of Retired Persons)](https://aarp.org)
+* [AMAC (Association of Mature American Citizens)](https://amac.us)
+* [ASA (American Society on Aging)](https://asaging.org)
+* [AAA (American Automobile Association)](https://aaa.com)
+* [Good Sam Club (RV Owners Association)](https://goodsam.com)
+* [KOA Owners Association (Kampgrounds of America)](https://koa.com)
+* [Sierra Club](https://sierraclub.org)
+* [National Wildlife Federation (NWF)](https://nwf.org)
+* [The Nature Conservancy](https://nature.org)
+* [Appalachian Mountain Club (AMC)](https://outdoors.org)
+* [Rotary International (USA Chapters)](https://rotary.org)
+* [Lions Clubs International (USA)](https://lionsclubs.org)
+* [Kiwanis International](https://kiwanis.org)
+* [Junior League (Association of Junior Leagues International)](https://ajli.org)
+* [U.S. Chamber of Commerce](https://uschamber.com)
+* [NFIB (National Federation of Independent Business)](https://nfib.com)
+* [AMA (American Medical Association)](https://ama-assn.org)
+* [ABA (American Bar Association)](https://americanbar.org)
+
+---
+
+##  ช่องทางการใช้งานรายชื่อสถานศึกษาที่มีอยู่ทั้งหมด
