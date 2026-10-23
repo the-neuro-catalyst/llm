@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/tech-ai/README.md",
+                "file": "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ClaudeAI-Mechanisms"
             }
           },
           {
@@ -200,11 +200,16 @@
   },
   "active": "21ca3c4685d09924",
   "lastOpenFiles": [
+    "data/mechanisms/tech-ai/mechanisms/ChatGPT-Mechanisms.md",
+    "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
+    "data/mechanisms/tech-ai/mechanisms/README.md",
+    "data/mechanisms/tech-ai/evidence/how-claude-ai-lies.md",
+    "data/mechanisms/tech-ai/mechanisms",
+    "data/mechanisms/tech-ai/evidence/how-chatgpt-lies-about-its-providers-intent.md",
+    "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai/evidence/README.md",
     "README.md",
-    "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai/ai-ranking.md",
-    "data/mechanisms/tech-ai/ai-mechanisms.md",
     "data/mechanisms/tech-ai/tech-mechanisms.md",
     "data/author/FUNDING.md",
     "data/mechanisms/tech-ai/Exposing-and-undermining-the-legitimacy-of-the-Nobel-Prize-in-AI.md",
@@ -226,15 +231,10 @@
     "data/mechanisms/linguistic/README.md",
     "data/mechanisms/linguistic",
     "data/paradigm-shift/Paradigm-Shift-of-Power.md",
-    "data/paradigm-shift/Paradigm-Shift-of-Corporate-Conscience.md",
-    "data/mechanisms/tech-ai/ai-forensic-investigation-guidelines.md",
-    "data/mechanisms/finance-investment/README.md",
     "data/mechanisms/finance-investment",
-    "data/mechanisms/human-morality/README.md",
     "data/mechanisms/human-morality",
     "data/mechanisms/academic-education",
     "data/mechanisms/food-health-care/Untitled",
-    "data/mechanisms/food-health-care",
-    "data/mechanisms/state-law-power"
+    "data/mechanisms/food-health-care"
   ]
 }
