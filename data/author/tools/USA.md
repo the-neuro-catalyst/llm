@@ -2,7 +2,7 @@
 
 - [Philanthropy](https://philanthropy.org)
 - [National PTA (National Parent Teacher Association)](https://pta.org)
-- [National PTSA (Parent Teacher Student Association)](https://pta.orghome/run-your-pta/ptsa-resources)
+- [National PTSA (Parent Teacher Student Association)](https://pta.org/home/run-your-pta/ptsa-resources)
 - [National Parents Union (NPU)](https://nationalparentsunion.org)
 - [National Association for Family, School, and Community Engagement (NAFSCE)](https://nafsce.org)
 * [Parent Booster USA](https://parentbooster.org)
