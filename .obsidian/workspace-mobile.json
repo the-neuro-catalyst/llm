@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/finance-investment/README.md",
-                "mode": "preview",
+                "file": "STRUCTURE_DIRECTORY.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "STRUCTURE_DIRECTORY"
             }
           },
           {
@@ -200,8 +200,9 @@
   },
   "active": "21ca3c4685d09924",
   "lastOpenFiles": [
-    "README.md",
     "data/mechanisms/finance-investment/README.md",
+    "STRUCTURE_DIRECTORY.md",
+    "README.md",
     "data/author/DISCLAIMER.md",
     "data/letters/letter-to-SPF.md",
     "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
@@ -230,7 +231,6 @@
     "data/mechanisms/tech-ai/evidence/images",
     "data/mechanisms/tech-ai/ai-usage.md",
     "เครื่องมือ.md",
-    "data/paradigm-shift/README.md",
     "data/mechanisms/linguistic",
     "data/mechanisms/finance-investment",
     "data/mechanisms/human-morality",
