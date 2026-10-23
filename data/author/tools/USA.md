@@ -1,6 +1,6 @@
 ## ช่องทางติดต่อสมาคมผู้ปกครอง
 
-- [Philanthropy](https://philanthropy.or)
+- [Philanthropy](https://philanthropy.org)
 - [National PTA (National Parent Teacher Association)](https://pta.org)
 - [National PTSA (Parent Teacher Student Association)](https://pta.orghome/run-your-pta/ptsa-resources)
 - [National Parents Union (NPU)](https://nationalparentsunion.org)
@@ -41,18 +41,15 @@
 
 ## ช่องทางติดต่อสมาคมผู้ถือหุ้นรายย่อย
 
-* [National PTA (National Parent Teacher Association)](https://pta.org)
-* [National PTSA (Parent Teacher Student Association)](https://pta.orghome/run-your-pta/ptsa-resources)
-* [National Parents Union (NPU)](https://nationalparentsunion.org)
-* [National Association for Family, School, and Community Engagement (NAFSCE)](https://nafsce.org)
-* [Parent Booster USA](https://parentbooster.org)
-* [Generation Hope - Student Parent Advocacy Alliance](https://generationhope.org)
-* [Boys & Girls Clubs of America](https://bgca.org)
-* [National PTO Network (Parent Teacher Organizations)](https://ptotoday.com)
-* [Parents as Teachers (PAT)](https://parentsasteachers.org)
-* [National Center for Families Learning (NCFL)](https://familieslearning.org)
-* [United Parents to Inspire & Educate (Oasis)](https://oasisnet.org)
-* [Parent-Teacher Home Visits (PTHV)](http://pthv.org)
+* [AAII (American Association of Individual Investors)](https://www.aaii.com/)
+* [BetterInvesting (National Association of Investors Corporation)](https://betterinvesting.org)
+* [As You Sow (Shareholder Advocacy Nonprofit)](https://asyousow.org)
+* [CII (Council of Institutional Investors)](https://cii.org)
+* [Shareholder Commons](https://theshareholdercommons.com)
+* [Healthy Markets Association](https://healthymarkets.org)
+* [Main Street Investors Coalition](https://mainstreetinvestors.org)
+* [Public Citizen - Congress Watch / Corporate Governance](https://citizen.org)
+* [Investor Choice Coalition](https://investorchoicecoalition.com)
 
 ---
 
@@ -76,6 +73,17 @@
 * [NFIB (National Federation of Independent Business)](https://nfib.com)
 * [AMA (American Medical Association)](https://ama-assn.org)
 * [ABA (American Bar Association)](https://americanbar.org)
+
+---
+
+## HR Networking Groups 
+
+* [Resources for Humans (by Lattice)](https://lattice.com) - ชุมชนบน Slack ที่ใหญ่และดังที่สุด มี HR รวมตัวกันกว่า 20,000 คน เน้นคุยอัปเดตงาน แชร์ความรู้ และมีห้องย่อยไว้เม้าท์มอยแก้เครียด
+* [People People (by Culture Amp)](https://cultureamp.com) - คอมมูนิตี้สายอบอุ่นที่เน้นเรื่องวัฒนธรรมองค์กร การดูแลใจพนักงาน แต่เปิดพื้นที่ให้ HR เข้ามาปรึกษาปัญหาหน้างานจริงแบบเรียลไทม์
+* [Hacking HR](https://hackinghr.io) - เครือข่ายที่เน้นความทันสมัย ผสมเรื่องเทคโนโลยี AI และอนาคตการทำงาน มีทั้งกรุ๊ปพูดคุยและงานอีเวนต์พบปะสังสรรค์
+* [HR Advisory (by Bennie)](https://bennie.com) - แพลตฟอร์มและคอมมูนิตี้ที่เน้นการช่วยเหลือเพื่อนร่วมอาชีพ มีการตั้งคำถาม-ตอบปัญหาแรงงานและการจัดการคนแบบเป็นกันเอง
+* [People Ops Society (POPS)](https://zenefits.com) - กลุ่มที่ปรับลุคจาก HR แบบเดิมมาเป็นสาย People Operations เน้นความกระชับ เป็นกันเอง และช่วยเหลือกันในเรื่องระบบและสวัสดิการ
+* [SHRM Connect](https://connect.shrm.org/) - บอร์ดพูดคุยอย่างเป็นทางการของสมาคม SHRM แม้จะดูจริงจัง แต่ภายในมีห้องย่อยแยกตามความสนใจที่คนทำงานแวะเวียนมาตั้งกระทู้ถาม-ตอบปัญหารายวัน
 
 ---
 
