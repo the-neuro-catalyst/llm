@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
+                "file": "data/author/DISCLAIMER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expose-all-mechanisms-of-capitalism-in-2-minutes"
+              "title": "DISCLAIMER"
             }
           },
           {
@@ -198,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ca3c4685d09924",
+  "active": "fbff8255a069bce1",
   "lastOpenFiles": [
-    "data/mechanisms/capitalism/README.md",
+    "data/letters/letter-to-SPF.md",
     "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
+    "data/mechanisms/capitalism/README.md",
     "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
     "data/mechanisms/capitalism",
     "data/mechanisms/tech-ai/mechanisms/ChatGPT-Mechanisms.md",
@@ -217,20 +218,19 @@
     "data/author/FUNDING.md",
     "data/mechanisms/tech-ai/Exposing-and-undermining-the-legitimacy-of-the-Nobel-Prize-in-AI.md",
     "data/mechanisms/README.md",
-    "THINGS_TO_KNOW.md",
+    "data/author/THINGS_TO_KNOW.md",
     "data/mechanisms/tech-ai/evidence/How-AI-LLM-Lies-All-About-Disclosure.md",
     "data/mechanisms/tech-ai/standards/Human-Perception-Fundamental.md",
     "data/mechanisms/tech-ai/standards",
     "data/author/Why-Do-I-Do-This.md",
     "data/author/Why-Dont-I-Feel-Any-Fear.md",
-    "DISCLAIMER.md",
+    "data/author/DISCLAIMER.md",
     "data/mechanisms/tech-ai/evidence/images/screenshot",
     "data/mechanisms/tech-ai/evidence/images",
     "data/mechanisms/tech-ai/ai-usage.md",
     "เครื่องมือ.md",
     "data/paradigm-shift/README.md",
     "data/author/README.md",
-    "data/letters/README.md",
     "data/mechanisms/linguistic",
     "data/mechanisms/finance-investment",
     "data/mechanisms/human-morality",
