@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2225beddd9f3224c",
+        "id": "bf07a0a7521cbd85",
         "type": "tabs",
         "children": [
           {
-            "id": "9f3f9aa6b2eb2066",
+            "id": "cb87f6305ac0923e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -184,43 +180,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f3f9aa6b2eb2066",
+  "active": "cb87f6305ac0923e",
   "lastOpenFiles": [
-    "data/mechanisms/academic-education/README.md",
-    "README.md",
-    "data/author/docs/NOTICE_LOG.md",
-    "data/mechanisms/corporate/README.md",
-    "data/mechanisms/corporate",
+    "data/mechanisms/README.md",
     "data/mechanisms/FUNDAMENTAL.md",
-    "data/mechanisms/media-press/README.md",
-    "data/mechanisms/media-press",
-    "data/mechanisms/tech-ai/mechanisms/tech/README.md",
-    "data/archives",
-    "data/mechanisms/tech-ai/archives",
-    "data/mechanisms/tech-ai/mechanisms/ai/README.md",
-    "data/mechanisms/tech-ai/mechanisms/tech",
-    "data/mechanisms/tech-ai/mechanisms/ai/Gemini-Mechanisms.md",
-    "data/mechanisms/tech-ai/mechanisms/ai",
-    "data/mechanisms/tech-ai/archives/Exposing-and-undermining-the-legitimacy-of-the-Nobel-Prize-in-AI.md",
-    "data/mechanisms/tech-ai/guild-lines",
+    "data/mechanisms/world-history/README.md",
+    "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai/standards/README.md",
     "data/mechanisms/tech-ai/standards/NIST-AI-RMF.md",
-    "data/mechanisms/tech-ai/standards/EU-AI-Act.md",
     "data/mechanisms/tech-ai/standards/ISO-42001.md",
+    "data/mechanisms/tech-ai/standards/Human-Perception-Principles.md",
+    "data/mechanisms/tech-ai/standards/EU-AI-Act.md",
+    "data/mechanisms/tech-ai/mechanisms/tech/README.md",
+    "data/mechanisms/tech-ai/mechanisms/ai/README.md",
+    "data/mechanisms/tech-ai/mechanisms/ai/Gemini-Mechanisms.md",
+    "data/mechanisms/tech-ai/mechanisms/ai/ChatGPT-Mechanisms.md",
+    "data/mechanisms/tech-ai/guild-lines/ai-usage.md",
+    "data/mechanisms/tech-ai/guild-lines/ai-forensic-investigation-guidelines.md",
+    "data/mechanisms/tech-ai/evidence/README.md",
+    "data/mechanisms/tech-ai/evidence/how-claude-ai-lies.md",
+    "data/mechanisms/tech-ai/evidence/how-chatgpt-lies-about-its-providers-intent.md",
+    "data/mechanisms/tech-ai/evidence/How-AI-LLM-Lies-All-About-Disclosure.md",
+    "data/mechanisms/tech-ai/archives/Exposing-and-undermining-the-legitimacy-of-the-Nobel-Prize-in-AI.md",
+    "data/mechanisms/tech-ai/archives/ai-ranking.md",
     "data/mechanisms/state-law-power/README.md",
     "data/mechanisms/medicine-phamarcy/README.md",
-    "data/mechanisms/medicine-phamarcy",
-    "data/mechanisms/world-history/README.md",
+    "data/mechanisms/media-press/README.md",
     "data/mechanisms/linguistic/README.md",
-    "data/mechanisms/README.md",
+    "data/mechanisms/human-morality/README.md",
+    "data/mechanisms/corporate",
+    "data/mechanisms/media-press",
+    "data/archives",
+    "data/mechanisms/tech-ai/archives",
+    "data/mechanisms/tech-ai/mechanisms/tech",
+    "data/mechanisms/tech-ai/mechanisms/ai",
+    "data/mechanisms/tech-ai/guild-lines",
+    "data/mechanisms/medicine-phamarcy",
     "data/mechanisms/world-history",
-    "data/mechanisms/tech-ai/mechanisms/ai/ClaudeAI-Mechanisms.md",
-    "data/author/tools/USA.md",
-    "data/mechanisms/finance-investment/README.md",
-    "data/STRUCTURE_DIRECTORY.md",
-    "data/author/games/DDMMYYYY-START-END-INDUSTRY_NAME.md",
-    "data/author/games/README.md",
-    "data/author/docs",
-    "data/author/docs/FAQ.md"
+    "data/author/docs"
   ]
 }
