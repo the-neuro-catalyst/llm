@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STRUCTURE_DIRECTORY.md",
+                "file": "data/author/games/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STRUCTURE_DIRECTORY"
+              "title": "README"
             }
           }
         ]
@@ -184,8 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f3f9aa6b2eb2066",
+  "active": "fbff8255a069bce1",
   "lastOpenFiles": [
+    "data/author/docs",
+    "data/author/docs/FAQ.md",
+    "data/author/games/README.md",
+    "data/author/games",
+    "data/STRUCTURE_DIRECTORY.md",
     "data/author/tools/Malaysia.md",
     "data/author/tools/Vietnam.md",
     "data/author/tools/Thailand.md",
@@ -205,22 +210,17 @@
     "data/author/tools/UAE.md",
     "data/author/tools/Singapore.md",
     "data/author/tools",
-    "STRUCTURE_DIRECTORY.md",
     "data/mechanisms/finance-investment/README.md",
     "README.md",
-    "data/author/DISCLAIMER.md",
+    "data/author/docs/DISCLAIMER.md",
     "data/letters/letter-to-SPF.md",
     "data/mechanisms/capitalism/Expose-all-mechanisms-of-capitalism-in-2-minutes.md",
-    "data/mechanisms/capitalism/README.md",
-    "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
     "data/mechanisms/capitalism",
-    "data/mechanisms/tech-ai/mechanisms/ChatGPT-Mechanisms.md",
     "data/mechanisms/tech-ai/mechanisms",
     "data/mechanisms/tech-ai/standards",
     "data/mechanisms/tech-ai/evidence/images/screenshot",
     "data/mechanisms/tech-ai/evidence/images",
     "data/mechanisms/linguistic",
-    "data/mechanisms/finance-investment",
-    "data/mechanisms/human-morality"
+    "data/mechanisms/finance-investment"
   ]
 }
