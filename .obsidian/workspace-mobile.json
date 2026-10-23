@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/author/games/README.md",
+                "file": "data/STRUCTURE_DIRECTORY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "STRUCTURE_DIRECTORY"
             }
           }
         ]
@@ -184,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbff8255a069bce1",
+  "active": "9f3f9aa6b2eb2066",
   "lastOpenFiles": [
+    "data/author/games/DDMMYYYY-START-END-INDUSTRY_NAME.md",
+    "data/author/games/README.md",
     "data/author/docs",
     "data/author/docs/FAQ.md",
-    "data/author/games/README.md",
     "data/author/games",
     "data/STRUCTURE_DIRECTORY.md",
     "data/author/tools/Malaysia.md",
@@ -220,7 +221,6 @@
     "data/mechanisms/tech-ai/standards",
     "data/mechanisms/tech-ai/evidence/images/screenshot",
     "data/mechanisms/tech-ai/evidence/images",
-    "data/mechanisms/linguistic",
-    "data/mechanisms/finance-investment"
+    "data/mechanisms/linguistic"
   ]
 }

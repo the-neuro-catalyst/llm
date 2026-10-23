@@ -1,16 +1,23 @@
+# Structure and Directory 
+
 ```sh
 .
 ├── README.md
-├── STRUCTURE_DIRECTORY.md
 └── data
+    ├── STRUCTURE_DIRECTORY.md
     ├── author
-    │   ├── DISCLAIMER.md
-    │   ├── FUNDING.md
     │   ├── README.md
-    │   ├── THINGS_TO_KNOW.md
-    │   ├── The-Origin.md
-    │   ├── Why-Do-I-Do-This.md
-    │   ├── Why-Dont-I-Feel-Any-Fear.md
+    │   ├── docs
+    │   │   ├── DISCLAIMER.md
+    │   │   ├── FAQ.md
+    │   │   ├── FUNDING.md
+    │   │   ├── THINGS_TO_KNOW.md
+    │   │   ├── The-Origin.md
+    │   │   ├── Why-Do-I-Do-This.md
+    │   │   └── Why-Dont-I-Feel-Any-Fear.md
+    │   ├── games
+    │   │   ├── DDMMYYYY-START-END-INDUSTRY_NAME.md
+    │   │   └── README.md
     │   └── tools
     │       ├── Australia.md
     │       ├── Canada.md
@@ -79,5 +86,4 @@
         ├── Paradigm-Shift-of-Economics.md
         ├── Paradigm-Shift-of-Power.md
         └── README.md
-
 ```
