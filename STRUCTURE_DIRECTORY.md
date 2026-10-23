@@ -1,6 +1,7 @@
 ```sh
 .
 ├── README.md
+├── STRUCTURE_DIRECTORY.md
 └── data
     ├── author
     │   ├── DISCLAIMER.md
@@ -9,7 +10,25 @@
     │   ├── THINGS_TO_KNOW.md
     │   ├── The-Origin.md
     │   ├── Why-Do-I-Do-This.md
-    │   └── Why-Dont-I-Feel-Any-Fear.md
+    │   ├── Why-Dont-I-Feel-Any-Fear.md
+    │   └── tools
+    │       ├── Australia.md
+    │       ├── Canada.md
+    │       ├── China.md
+    │       ├── France.md
+    │       ├── German.md
+    │       ├── HongKong.md
+    │       ├── Indonesia.md
+    │       ├── Japan.md
+    │       ├── Malaysia.md
+    │       ├── Philippines.md
+    │       ├── Singapore.md
+    │       ├── Sweden.md
+    │       ├── Taiwan.md
+    │       ├── Thailand.md
+    │       ├── UAE.md
+    │       ├── USA.md
+    │       └── Vietnam.md
     ├── letters
     │   ├── README.md
     │   ├── letter-to-SPF.md
@@ -60,4 +79,5 @@
         ├── Paradigm-Shift-of-Economics.md
         ├── Paradigm-Shift-of-Power.md
         └── README.md
+
 ```
