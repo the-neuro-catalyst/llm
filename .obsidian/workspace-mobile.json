@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3136675cc030870",
+        "id": "2225beddd9f3224c",
         "type": "tabs",
         "children": [
           {
-            "id": "21ca3c4685d09924",
+            "id": "9f3f9aa6b2eb2066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STRUCTURE_DIRECTORY.md",
+                "file": "data/author/tools/Malaysia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STRUCTURE_DIRECTORY"
-            }
-          },
-          {
-            "id": "1ed665e18beb5247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DISCLAIMER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DISCLAIMER"
+              "title": "Malaysia"
             }
           }
         ]
@@ -198,10 +184,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ca3c4685d09924",
+  "active": "9f3f9aa6b2eb2066",
   "lastOpenFiles": [
-    "data/mechanisms/finance-investment/README.md",
+    "data/author/tools/Vietnam.md",
+    "data/author/tools/Malaysia.md",
+    "data/author/tools/Thailand.md",
+    "data/author/tools/Indonesia.md",
+    "data/author/tools/Philippines.md",
+    "data/author/tools/HongKong.md",
+    "data/author/tools/Taiwan.md",
+    "data/author/tools/Japan.md",
+    "data/author/tools/China.md",
+    "data/author/tools/Canada.md",
+    "data/author/tools/Australia.md",
+    "data/author/tools/German.md",
+    "data/author/tools/France.md",
+    "data/author/tools/Sweden.md",
+    "data/author/tools/Untitled",
+    "data/author/tools/USA.md",
+    "data/author/tools/UAE.md",
+    "data/author/tools/Singapore.md",
+    "data/author/tools",
     "STRUCTURE_DIRECTORY.md",
+    "data/mechanisms/finance-investment/README.md",
     "README.md",
     "data/author/DISCLAIMER.md",
     "data/letters/letter-to-SPF.md",
@@ -210,31 +215,12 @@
     "data/mechanisms/tech-ai/mechanisms/ClaudeAI-Mechanisms.md",
     "data/mechanisms/capitalism",
     "data/mechanisms/tech-ai/mechanisms/ChatGPT-Mechanisms.md",
-    "data/mechanisms/tech-ai/mechanisms/README.md",
-    "data/mechanisms/tech-ai/evidence/how-claude-ai-lies.md",
     "data/mechanisms/tech-ai/mechanisms",
-    "data/mechanisms/tech-ai/evidence/how-chatgpt-lies-about-its-providers-intent.md",
-    "data/mechanisms/tech-ai/README.md",
-    "data/mechanisms/tech-ai/evidence/README.md",
-    "data/mechanisms/tech-ai/ai-ranking.md",
-    "data/mechanisms/tech-ai/tech-mechanisms.md",
-    "data/author/FUNDING.md",
-    "data/mechanisms/tech-ai/Exposing-and-undermining-the-legitimacy-of-the-Nobel-Prize-in-AI.md",
-    "data/mechanisms/README.md",
-    "data/author/THINGS_TO_KNOW.md",
-    "data/mechanisms/tech-ai/evidence/How-AI-LLM-Lies-All-About-Disclosure.md",
-    "data/mechanisms/tech-ai/standards/Human-Perception-Fundamental.md",
     "data/mechanisms/tech-ai/standards",
-    "data/author/Why-Do-I-Do-This.md",
-    "data/author/Why-Dont-I-Feel-Any-Fear.md",
     "data/mechanisms/tech-ai/evidence/images/screenshot",
     "data/mechanisms/tech-ai/evidence/images",
-    "data/mechanisms/tech-ai/ai-usage.md",
-    "เครื่องมือ.md",
     "data/mechanisms/linguistic",
     "data/mechanisms/finance-investment",
-    "data/mechanisms/human-morality",
-    "data/mechanisms/academic-education",
-    "data/mechanisms/food-health-care/Untitled"
+    "data/mechanisms/human-morality"
   ]
 }
