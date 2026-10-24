@@ -11,10 +11,14 @@
             "id": "cb87f6305ac0923e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "data/archives/docs/Aladdin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Aladdin"
             }
           }
         ]
@@ -182,17 +186,23 @@
   },
   "active": "cb87f6305ac0923e",
   "lastOpenFiles": [
+    "data/author/docs/THINGS_TO_KNOW.md",
+    "data/archives/docs/Aladdin.md",
+    "data/mechanisms/tech-ai/evidence/images/ChatGPT",
+    "data/mechanisms/tech-ai/evidence/images/ClaudeAI",
+    "data/author/docs/WARNING.md",
+    "data/mechanisms/state-law-power/README.md",
+    "data/mechanisms/tech-ai/mechanisms/ai/README.md",
+    "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/README.md",
     "data/mechanisms/FUNDAMENTAL.md",
     "data/mechanisms/world-history/README.md",
-    "data/mechanisms/tech-ai/README.md",
     "data/mechanisms/tech-ai/standards/README.md",
     "data/mechanisms/tech-ai/standards/NIST-AI-RMF.md",
     "data/mechanisms/tech-ai/standards/ISO-42001.md",
     "data/mechanisms/tech-ai/standards/Human-Perception-Principles.md",
     "data/mechanisms/tech-ai/standards/EU-AI-Act.md",
     "data/mechanisms/tech-ai/mechanisms/tech/README.md",
-    "data/mechanisms/tech-ai/mechanisms/ai/README.md",
     "data/mechanisms/tech-ai/mechanisms/ai/Gemini-Mechanisms.md",
     "data/mechanisms/tech-ai/mechanisms/ai/ChatGPT-Mechanisms.md",
     "data/mechanisms/tech-ai/guild-lines/ai-usage.md",
@@ -203,11 +213,7 @@
     "data/mechanisms/tech-ai/evidence/How-AI-LLM-Lies-All-About-Disclosure.md",
     "data/mechanisms/tech-ai/archives/Exposing-and-undermining-the-legitimacy-of-the-Nobel-Prize-in-AI.md",
     "data/mechanisms/tech-ai/archives/ai-ranking.md",
-    "data/mechanisms/state-law-power/README.md",
     "data/mechanisms/medicine-phamarcy/README.md",
-    "data/mechanisms/media-press/README.md",
-    "data/mechanisms/linguistic/README.md",
-    "data/mechanisms/human-morality/README.md",
     "data/mechanisms/corporate",
     "data/mechanisms/media-press",
     "data/archives",
@@ -215,8 +221,6 @@
     "data/mechanisms/tech-ai/mechanisms/tech",
     "data/mechanisms/tech-ai/mechanisms/ai",
     "data/mechanisms/tech-ai/guild-lines",
-    "data/mechanisms/medicine-phamarcy",
-    "data/mechanisms/world-history",
-    "data/author/docs"
+    "data/mechanisms/medicine-phamarcy"
   ]
 }
